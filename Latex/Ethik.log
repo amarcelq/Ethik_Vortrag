@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.25)  2 DEC 2023 14:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.25)  2 DEC 2023 15:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -333,33 +333,166 @@ LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/b/n' will be
 (Font)              scaled to size 10.92004pt on input line 34.
 LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/b/n' will be
 (Font)              scaled to size 15.72485pt on input line 34.
+
+
+LaTeX Warning: Citation `Merzlyakov2022' on page 2 undefined on input line 36.
+
+
+LaTeX Warning: Citation `Merzlyakov2022' on page 2 undefined on input line 39.
+
+
+LaTeX Warning: Citation `Merzlyakov2022' on page 2 undefined on input line 42.
+
+
+LaTeX Warning: Citation `clynes1960cyborgs' on page 2 undefined on input line 46.
+
+
+LaTeX Warning: Citation `warwick2000cyborg' on page 2 undefined on input line 47.
+
 LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/b/n' will be
 (Font)              scaled to size 13.10403pt on input line 54.
+/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex:58: Missing $ inserted.
+<inserted text> 
+                $
+l.58 ...rr https://www.youtube.com/watch?v=PLk8Pm_
+                                                  XBJE "wir werden kÃ¶rperli...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 58.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 60.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 60.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 61.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 61.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 62.
+
+
+LaTeX Warning: Command \ss invalid in math mode on input line 62.
+
+/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex:63: You can't use `macro parameter character #' in math mode.
+l.63 ...interface-ami/frequently-asked-questions/#
+                                                  :~:text=The%20AMI%20is%20a...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 65.
+
+/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex:66: Missing $ inserted.
+<inserted text> 
+                $
+l.66 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ö in font cmr12!
+Missing character: There is no ü in font cmr12!
+Missing character: There is no ü in font cmr12!
+Missing character: There is no ö in font cmr12!
+Missing character: There is no ü in font cmr12!
+Missing character: There is no ü in font cmr12!
+Missing character: There is no ÿ in font cmr12!
+Missing character: There is no ü in font cmr12!
+
+Overfull \hbox (409.91159pt too wide) in paragraph at lines 58--66
+\T1/DejaVuSans-TLF/m/n/12 Cochlear Im-plan-tat, Hugh Herr https://www.youtube.com/watch?v=PLk8Pm$[]\OML/cmm/m/it/12 BJE\OT1/cmr/m/n/12 "\OML/cmm/m/it/12 wirwerdenkrperlicheBehinderungenim\OT1/cmr/m/n/12 21\OML/cmm/m/it/12 :Jahrhundertabschaffen[]gonist \OMS/cmsy/m/n/12 ^^@
+ []
+
+
+Overfull \hbox (2021.87447pt too wide) in paragraph at lines 58--66
+\OML/cmm/m/it/12 antagonistmyoneuralinterfaceProthesengebenkeinFeedbackzudenNervenunddaherkannmansienichtBewegenohnedasmansiesieht\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 anspannungsorgtfrentspannungdesantagonistenunddasfunktioniertbereinNervensignalzumHirn; wasjabeieinerProthesenichtpassiert\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 mitdiesemInterfaceistdasmglich\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 benutztbestimmtaizurpositionspredicten; abernochmalschauen\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 :AlsoesfhltsichwennmandieAugenverbindetgenausoan; wiewennmanseinennatrlichenFubewegthttps \OT1/cmr/m/n/12 :
+ []
+
+
+Overfull \hbox (166.12476pt too wide) in paragraph at lines 58--66
+\OML/cmm/m/it/12 ami=frequently \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 asked \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 questions= \OT1/cmr/m/n/12 : : \OML/cmm/m/it/12 text \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 Thehttps \OT1/cmr/m/n/12 : \OML/cmm/m/it/12 ==www:ncbi:nlm:nih:gov=pmc=articles=PMC\OT1/cmr/m/n/12 8630671\OML/cmm/m/it/12 = \OT1/cmr/m/n/12 =\OML/cmm/m/it/12 >
+ []
+
 LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/sl' in size <12> not available
-(Font)              Font shape `T1/DejaVuSans-TLF/m/it' tried instead on input line 59.
+(Font)              Font shape `T1/DejaVuSans-TLF/m/it' tried instead on input line 66.
 LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/it' will be
-(Font)              scaled to size 10.92004pt on input line 59.
- [2
+(Font)              scaled to size 10.92004pt on input line 66.
+[2
 
 ]
-Overfull \hbox (6.84134pt too wide) in paragraph at lines 74--75
+/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex:67: Missing $ inserted.
+<inserted text> 
+                $
+l.67 https://www.youtube.com/watch?v=PLk8Pm_
+                                            XBJE Robot became part of me 10:...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 68.
+
+/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex:69: Missing $ inserted.
+<inserted text> 
+                $
+l.69 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ä in font cmr12!
+Missing character: There is no ü in font cmr12!
+Missing character: There is no ö in font cmr12!
+
+Overfull \hbox (492.0849pt too wide) in paragraph at lines 67--69
+[]\T1/DejaVuSans-TLF/m/n/12 https://www.youtube.com/watch?v=PLk8Pm$[]\OML/cmm/m/it/12 BJERobotbecamepartofme\OT1/cmr/m/n/12 10 : 15\OML/cmm/m/it/12 vlltinPrsentationeinblenden\OT1/cmr/m/n/12 ?\OML/cmm/m/it/12 ErfhltsichnichtwieeinCyborgsondernwieeinnormalerMensch \OT1/cmr/m/n/12 =\OML/cmm/m/it/12 >
+ []
+
+
+Overfull \hbox (145.35423pt too wide) in paragraph at lines 84--87
+\T1/DejaVuSans-TLF/m/n/12 brau-chen => nicht nur er-set-zen son-dern auch er-wei-tern htt-ps://www.youtube.com/watch?v=fQQEQgugDD8
+ []
+
+[3]
+Overfull \hbox (6.84134pt too wide) in paragraph at lines 100--101
 []\T1/DejaVuSans-TLF/m/n/12 Kryonik und Le-bens-ver-län-ge-rungs-for-schung: Kryo-nik-un-ter-neh-men bie-ten die Mög-
  []
 
-[3] [4] (./Ethik.bbl) [5] (./Ethik.aux) ) 
+[4] [5] (./Ethik.bbl) [6] (./Ethik.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 8288 strings out of 480194
- 161970 string characters out of 5893741
- 594112 words of memory out of 5000000
- 26123 multiletter control sequences out of 15000+600000
+ 8289 strings out of 480194
+ 161985 string characters out of 5893741
+ 595169 words of memory out of 5000000
+ 26124 multiletter control sequences out of 15000+600000
  499970 words of font info for 58 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 122i,9n,120p,10709b,279s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavusans_t1-type1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans-Oblique.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans.pfb>
-Output written on Ethik.pdf (5 pages, 76423 bytes).
+ 122i,8n,120p,10709b,279s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavusans_t1-type1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans-Oblique.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Ethik.pdf (6 pages, 124319 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
+ 62 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
