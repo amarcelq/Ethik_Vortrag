@@ -566,12 +566,9 @@ INPUT ./Ethik.bbl
 INPUT Ethik.bbl
 INPUT ./Ethik.bbl
 INPUT Ethik.bbl
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/dejavu/DejaVuSans-Oblique-tlf-t1.vf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-Oblique-tlf-t1--base.tfm
 INPUT Ethik.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavusans_t1-type1.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans-Bold.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans-Oblique.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb

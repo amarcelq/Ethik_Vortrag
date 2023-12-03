@@ -1,14 +1,14 @@
 # Fdb version 3
 ["bibtex Ethik"] 0 "Ethik.aux" "Ethik.bbl" "Ethik" 0
-  "/usr/share/texlive/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
   "Ethik.aux" 0 -1 0 "pdflatex"
-  "ref.bib" 1701519931 850 4187dbda666439226dd1d01d14175bbb ""
+  "IEEEtrain.bst" 0 -1 0 ""
+  "ref.bib" 1701607910 2000 1bfb69615805b72e02ffb81a02107740 ""
   (generated)
   "Ethik.bbl"
   "Ethik.blg"
-["pdflatex"] 1701598178 "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex" "Ethik.pdf" "Ethik" 1701598178
+["pdflatex"] 1701608931 "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex" "Ethik.pdf" "Ethik" 1701608931
   "/etc/texmf/web2c/texmf.cnf" 1698262773 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex" 1701598177 10506 89e08d6d0385ef2e33b1e01d29f79b92 ""
+  "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex" 1701608931 14300 31063ddc1df05310af0255355fcb019c ""
   "/home/marcel/texmf/tex/latex/oth/Klassen/OTHRartcl.cls" 1700235771 146 2e4f5f644b294ae21aec6d6101815d9d ""
   "/home/marcel/texmf/tex/latex/oth/common/OTHR.sty" 1700235771 260 ee0f8c788031badfbd78ef7aafbafc98 ""
   "/home/marcel/texmf/tex/latex/oth/common/OTHR_clscommons.sty" 1700235771 6986 7f2b6ccc6f6ff058da66eb38ea5afcb7 ""
@@ -30,7 +30,6 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-Bold-tlf-t1--base.tfm" 1313190712 1616 5d440c23ea36b76ca774199bc6c94f3c ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-Bold-tlf-t1.tfm" 1313190712 6964 b623013fad29f2585503233bd5100f08 ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-Oblique-tlf-t1--base.tfm" 1380151016 1732 3ff08d7d9b14eb2a77702131b8300389 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-Oblique-tlf-t1.tfm" 1380151016 5468 edd20dc7b66c2e107dd3bae8a3997b0e ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-tlf-t1--base.tfm" 1313190712 1600 84c1181cb1304344ab8dcbe46cd88f3c ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-tlf-t1.tfm" 1313190712 11168 c2b18b74bb9a72b38fcf46a6cb993ef8 ""
@@ -39,10 +38,8 @@
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans-Bold.pfb" 1380151016 569141 183afe956b5b4292e6685d5a9fb6b4b6 ""
-  "/usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans-Oblique.pfb" 1380151016 529615 ce38d3063228eff9bf2fef974b52accb ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans.pfb" 1380151016 569779 8884445eb790a5976eb37cfe3065d8b8 ""
   "/usr/share/texlive/texmf-dist/fonts/vf/public/dejavu/DejaVuSans-Bold-tlf-t1.vf" 1313190712 1720 1eead5364e88c536aa552c4812874806 ""
-  "/usr/share/texlive/texmf-dist/fonts/vf/public/dejavu/DejaVuSans-Oblique-tlf-t1.vf" 1313190712 1724 d4923024dbde23e8784bb8f9b9d42b5f ""
   "/usr/share/texlive/texmf-dist/fonts/vf/public/dejavu/DejaVuSans-tlf-t1.vf" 1313190712 1712 e5d9bc176c82f00293bc17997ef8e9f4 ""
   "/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texlive/texmf-dist/tex/generic/babel-german/ngerman.ldf" 1614462139 2289 b1d356015c8fd065cb4437d567449559 ""
@@ -96,9 +93,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1698266018 4036811 4cb80868003c86b962b6b5ae1e1e2902 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1698266022 1848956 5e9f8a279a1c00daf8c0477a0e841cdd ""
-  "Ethik.aux" 1701598178 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "Ethik.bbl" 1701598178 590 93d1f09301e0f6320f0770585753617e "bibtex Ethik"
-  "Ethik.tex" 1701598177 10506 89e08d6d0385ef2e33b1e01d29f79b92 ""
+  "Ethik.aux" 1701608931 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Ethik.bbl" 1701608931 0 d41d8cd98f00b204e9800998ecf8427e "bibtex Ethik"
+  "Ethik.tex" 1701608931 14300 31063ddc1df05310af0255355fcb019c ""
   (generated)
   "Ethik.aux"
   "Ethik.log"
