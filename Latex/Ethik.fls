@@ -552,7 +552,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/dejavu/DejaVuSans-tlf-t1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-tlf-t1--base.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-Bold-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-Bold-tlf-t1.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-Bold-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-Oblique-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/dejavu/DejaVuSans-Bold-tlf-t1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-Bold-tlf-t1--base.tfm
@@ -560,6 +559,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/dejavu/DejaVuSans-tlf-t1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-tlf-t1--base.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/dejavu/DejaVuSans-Bold-tlf-t1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-Bold-tlf-t1--base.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-Bold-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/dejavu/DejaVuSans-Bold-tlf-t1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-Bold-tlf-t1--base.tfm
 INPUT ./Ethik.bbl
