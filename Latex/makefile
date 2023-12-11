@@ -1,5 +1,3 @@
-
-
 all:
 	pdflatex Ethik.tex
 	bibtex Ethik.aux
