@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex Ethik"] 1702326885 "Ethik.aux" "Ethik.bbl" "Ethik" 1702326885
+["bibtex Ethik"] 1702326885 "Ethik.aux" "Ethik.bbl" "Ethik" 1702326986
   "/usr/share/texlive/texmf-dist/bibtex/bst/ieeetran/IEEEtran.bst" 1440712899 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "Ethik.aux" 1702326885 2334 3bd7b4e7a2d1039c1e4551127faf524c "pdflatex"
-  "ref.bib" 1702326884 13708 cc5ee26b9bda7fbf7afb0594d9fa9963 ""
+  "Ethik.aux" 1702326986 2334 3bd7b4e7a2d1039c1e4551127faf524c "pdflatex"
+  "ref.bib" 1702326985 13708 cc5ee26b9bda7fbf7afb0594d9fa9963 ""
   (generated)
   "Ethik.bbl"
   "Ethik.blg"
-["pdflatex"] 1702326884 "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex" "Ethik.pdf" "Ethik" 1702326884
+["pdflatex"] 1702326985 "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex" "Ethik.pdf" "Ethik" 1702326986
   "/etc/texmf/web2c/texmf.cnf" 1698262773 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/marcel/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcss1200.600pk" 1701612191 12804 0e0a63bc4759a97654a1cbde3a6ae115 ""
   "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex" 1702326868 24733 dbfdf45eee924bd1a1a09e56ae6e895e ""
@@ -97,8 +97,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1698266018 4036811 4cb80868003c86b962b6b5ae1e1e2902 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1698266022 1848956 5e9f8a279a1c00daf8c0477a0e841cdd ""
-  "Ethik.aux" 1702326884 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "Ethik.bbl" 1702326884 6627 df79be3f3c5788363d98ae5c34930db4 "bibtex Ethik"
+  "Ethik.aux" 1702326986 2334 3bd7b4e7a2d1039c1e4551127faf524c "pdflatex"
+  "Ethik.bbl" 1702326885 6627 df79be3f3c5788363d98ae5c34930db4 "bibtex Ethik"
   "Ethik.tex" 1702326868 24733 dbfdf45eee924bd1a1a09e56ae6e895e ""
   (generated)
   "Ethik.aux"
