@@ -1,7 +1,7 @@
 This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Ethik.aux
-White space in argument---line 35 of file Ethik.aux
+White space in argument---line 36 of file Ethik.aux
  : \citation{Aziz
  :                2009 S.7}
 I'm skipping whatever remains of this command
@@ -19,45 +19,45 @@ Warning--I didn't find a database entry for "Kahn"
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 
 Done.
-You've used 25 entries,
+You've used 26 entries,
             4087 wiz_defined-function locations,
-            994 strings with 11627 characters,
-and the built_in function-call counts, 16791 in all, are:
-= -- 1441
-> -- 292
+            997 strings with 11667 characters,
+and the built_in function-call counts, 17139 in all, are:
+= -- 1469
+> -- 296
 < -- 143
-+ -- 166
-- -- 44
-* -- 771
-:= -- 2671
-add.period$ -- 53
-call.type$ -- 25
-change.case$ -- 25
++ -- 168
+- -- 45
+* -- 780
+:= -- 2738
+add.period$ -- 55
+call.type$ -- 26
+change.case$ -- 26
 chr.to.int$ -- 306
-cite$ -- 25
-duplicate$ -- 1222
-empty$ -- 1332
-format.name$ -- 57
-if$ -- 3880
+cite$ -- 26
+duplicate$ -- 1249
+empty$ -- 1366
+format.name$ -- 58
+if$ -- 3956
 int.to.chr$ -- 0
-int.to.str$ -- 25
-missing$ -- 200
-newline$ -- 110
-num.names$ -- 23
-pop$ -- 428
+int.to.str$ -- 26
+missing$ -- 207
+newline$ -- 115
+num.names$ -- 24
+pop$ -- 450
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 1344
+skip$ -- 1372
 stack$ -- 0
 substring$ -- 754
-swap$ -- 1001
+swap$ -- 1018
 text.length$ -- 41
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 25
+type$ -- 26
 warning$ -- 0
-while$ -- 75
-width$ -- 27
-write$ -- 277
+while$ -- 76
+width$ -- 28
+write$ -- 287
 (There was 1 error message)
