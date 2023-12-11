@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.25)  11 DEC 2023 21:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.25)  11 DEC 2023 21:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -324,16 +324,6 @@ LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/b/n' will be
 (Font)              scaled to size 10.92004pt on input line 34.
 LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/b/n' will be
 (Font)              scaled to size 15.72485pt on input line 34.
-LaTeX Info: Symbol \textasciiacute not provided by
-            font family DejaVuSans-TLF in TS1 encoding.
-            Default family used instead on input line 56.
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 56.
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
-File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-LaTeX Info: Symbol \textasciiacute not provided by
-            font family DejaVuSans-TLF in TS1 encoding.
-            Default family used instead on input line 56.
 LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/sl' in size <12> not available
 (Font)              Font shape `T1/DejaVuSans-TLF/m/it' tried instead on input line 57.
 LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/it' will be
@@ -342,31 +332,31 @@ LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/it' will be
 
 ]
 LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/b/n' will be
-(Font)              scaled to size 13.10403pt on input line 66.
-LaTeX Font Info:    Trying to load font information for TS1+DejaVuSans-TLF on input line 69.
+(Font)              scaled to size 13.10403pt on input line 73.
+LaTeX Font Info:    Trying to load font information for TS1+DejaVuSans-TLF on input line 76.
  (/usr/share/texlive/texmf-dist/tex/latex/dejavu/TS1DejaVuSans-TLF.fd
 File: TS1DejaVuSans-TLF.fd 2011/10/30 Font definitions for TS1/DejaVuSans-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/DejaVuSans-TLF/m/n' will be
-(Font)              scaled to size 10.92004pt on input line 69.
- [3]
-Overfull \hbox (1.01318pt too wide) in paragraph at lines 103--104
+(Font)              scaled to size 10.92004pt on input line 76.
+ [3] [4]
+Overfull \hbox (1.01318pt too wide) in paragraph at lines 110--111
 \T1/DejaVuSans-TLF/m/n/12 Quelle (https://www.br.de/br-fernsehen/sendungen/sehen-statt-hoeren/ci-zwang-
  []
 
-[4]
+[5]
 
-LaTeX Warning: Citation `al2021impact' on page 5 undefined on input line 125.
+LaTeX Warning: Citation `al2021impact' on page 6 undefined on input line 132.
 
-[5] [6]
+[6]
 
-LaTeX Warning: Citation `Kahn' on page 7 undefined on input line 153.
+LaTeX Warning: Citation `Kahn' on page 7 undefined on input line 154.
 
 
-LaTeX Warning: Citation `Aziz 2009 S.7' on page 7 undefined on input line 153.
+LaTeX Warning: Citation `Aziz 2009 S.7' on page 7 undefined on input line 154.
 
 [7]
-Overfull \hbox (2.32793pt too wide) in paragraph at lines 176--195
+Overfull \hbox (2.32793pt too wide) in paragraph at lines 177--196
 \T1/DejaVuSans-TLF/m/n/12 Die nächs-te Ri-si-ko-ka-te-go-rie be-zieht sich auf Or-ga-ni-sa-tio-nen und Fir-men, die durch
  []
 
@@ -381,18 +371,18 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 8176 strings out of 480194
- 159192 string characters out of 5893741
- 596825 words of memory out of 5000000
- 26013 multiletter control sequences out of 15000+600000
- 500928 words of font info for 61 fonts, out of 8000000 for 9000
+ 8144 strings out of 480194
+ 158410 string characters out of 5893741
+ 593830 words of memory out of 5000000
+ 25985 multiletter control sequences out of 15000+600000
+ 500585 words of font info for 60 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  122i,8n,120p,10709b,366s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavusans_t1-type1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavusans_ts1.enc} </home/marcel/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcss1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans-Oblique.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans.pfb>
-Output written on Ethik.pdf (11 pages, 107162 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavusans_t1-type1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavusans_ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans-Oblique.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans.pfb>
+Output written on Ethik.pdf (11 pages, 106451 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 63 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

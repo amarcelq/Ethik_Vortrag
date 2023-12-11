@@ -1,15 +1,14 @@
 # Fdb version 3
-["bibtex Ethik"] 1702326885 "Ethik.aux" "Ethik.bbl" "Ethik" 1702326986
+["bibtex Ethik"] 1702327271 "Ethik.aux" "Ethik.bbl" "Ethik" 1702327657
   "/usr/share/texlive/texmf-dist/bibtex/bst/ieeetran/IEEEtran.bst" 1440712899 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "Ethik.aux" 1702326986 2334 3bd7b4e7a2d1039c1e4551127faf524c "pdflatex"
-  "ref.bib" 1702326985 13708 cc5ee26b9bda7fbf7afb0594d9fa9963 ""
+  "Ethik.aux" 1702327657 2379 d04af41829c47526f87fbe36819a497e "pdflatex"
+  "ref.bib" 1702327270 13858 94f32b81ba049dd7d63e898532001c03 ""
   (generated)
   "Ethik.bbl"
   "Ethik.blg"
-["pdflatex"] 1702326985 "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex" "Ethik.pdf" "Ethik" 1702326986
+["pdflatex"] 1702327657 "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex" "Ethik.pdf" "Ethik" 1702327657
   "/etc/texmf/web2c/texmf.cnf" 1698262773 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/marcel/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcss1200.600pk" 1701612191 12804 0e0a63bc4759a97654a1cbde3a6ae115 ""
-  "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex" 1702326868 24733 dbfdf45eee924bd1a1a09e56ae6e895e ""
+  "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex" 1702327656 24739 0ccaeff1db755e8679cc95a126eff082 ""
   "/home/marcel/texmf/tex/latex/oth/Klassen/OTHRartcl.cls" 1700235771 146 2e4f5f644b294ae21aec6d6101815d9d ""
   "/home/marcel/texmf/tex/latex/oth/common/OTHR.sty" 1700235771 260 ee0f8c788031badfbd78ef7aafbafc98 ""
   "/home/marcel/texmf/tex/latex/oth/common/OTHR_clscommons.sty" 1700235771 6986 7f2b6ccc6f6ff058da66eb38ea5afcb7 ""
@@ -21,7 +20,6 @@
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavusans_ts1.enc" 1380151016 2954 2dd734239c90a81949e7ae0c9f19d0ac ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecss1200.tfm" 1136768653 3584 db562fb1d1c474cc55f0ce8a1dd94fe7 ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcss1200.tfm" 1136768653 1536 809a177113b9dd743dafe00d0870078f ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
@@ -62,7 +60,6 @@
   "/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty" 1622581934 4946 461cc78f6f26901410d9f1d725079cc6 ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty" 1622581934 5049 969aec05d5f39c43f8005910498fcf90 ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd" 1622581934 2621 95d97d14f2ca40d81472d6fd62553199 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd" 1622581934 2374 28abe4a5d502b57c879bda08af825361 ""
   "/usr/share/texlive/texmf-dist/tex/latex/breakcites/breakcites.sty" 1266794498 615 0a157db121fb266f4be4180b141d5b8c ""
   "/usr/share/texlive/texmf-dist/tex/latex/dejavu/DejaVuSans.sty" 1313190712 930 f65a11ba118a6b465c10232254f64c7c ""
   "/usr/share/texlive/texmf-dist/tex/latex/dejavu/DejaVuSansMono.sty" 1313190712 978 fd619074fb1c1af80c343180a07d2f7e ""
@@ -97,9 +94,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1698266018 4036811 4cb80868003c86b962b6b5ae1e1e2902 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1698266022 1848956 5e9f8a279a1c00daf8c0477a0e841cdd ""
-  "Ethik.aux" 1702326986 2334 3bd7b4e7a2d1039c1e4551127faf524c "pdflatex"
-  "Ethik.bbl" 1702326885 6627 df79be3f3c5788363d98ae5c34930db4 "bibtex Ethik"
-  "Ethik.tex" 1702326868 24733 dbfdf45eee924bd1a1a09e56ae6e895e ""
+  "Ethik.aux" 1702327657 2379 d04af41829c47526f87fbe36819a497e "pdflatex"
+  "Ethik.bbl" 1702327272 6785 bb0d1db186f788ce69c63fddac41c07f "bibtex Ethik"
+  "Ethik.tex" 1702327656 24739 0ccaeff1db755e8679cc95a126eff082 ""
   (generated)
   "Ethik.aux"
   "Ethik.log"
