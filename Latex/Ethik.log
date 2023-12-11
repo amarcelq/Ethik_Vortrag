@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.25)  11 DEC 2023 21:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.25)  11 DEC 2023 21:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -324,121 +324,39 @@ LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/b/n' will be
 (Font)              scaled to size 10.92004pt on input line 34.
 LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/b/n' will be
 (Font)              scaled to size 15.72485pt on input line 34.
-
-
-LaTeX Warning: Citation `HughHerrYoutube' on page 2 undefined on input line 35.
-
-
-LaTeX Warning: Citation `Merzlyakov2022' on page 2 undefined on input line 43.
-
-
-LaTeX Warning: Citation `Merzlyakov2022' on page 2 undefined on input line 45.
-
-
-LaTeX Warning: Citation `Merzlyakov2022' on page 2 undefined on input line 46.
-
-
-LaTeX Warning: Citation `warwick2000cyborg' on page 2 undefined on input line 47.
-
-
-LaTeX Warning: Citation `clynes1960cyborgs' on page 2 undefined on input line 47.
-
-
-LaTeX Warning: Citation `breczko2021human' on page 2 undefined on input line 50.
-
-
-LaTeX Warning: Citation `schildmann1999normal' on page 2 undefined on input line 54.
-
-
-LaTeX Warning: Citation `aguayo2023inklusion' on page 2 undefined on input line 55.
-
 LaTeX Info: Symbol \textasciiacute not provided by
             font family DejaVuSans-TLF in TS1 encoding.
             Default family used instead on input line 56.
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 56.
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Info: Symbol \textasciiacute not provided by
             font family DejaVuSans-TLF in TS1 encoding.
             Default family used instead on input line 56.
-
-
-LaTeX Warning: Citation `lebenshilfeFlyer' on page 2 undefined on input line 56.
-
 LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/sl' in size <12> not available
 (Font)              Font shape `T1/DejaVuSans-TLF/m/it' tried instead on input line 57.
 LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/it' will be
 (Font)              scaled to size 10.92004pt on input line 57.
-[2
+ [2
 
 ]
-
-LaTeX Warning: Citation `perlmutter2006deep' on page 3 undefined on input line 59.
-
-
-LaTeX Warning: Citation `hallett2007transcranial' on page 3 undefined on input line 60.
-
-
-LaTeX Warning: Citation `destatis2022' on page 3 undefined on input line 61.
-
-
-LaTeX Warning: Citation `luber2014enhancement' on page 3 undefined on input line 62.
-
-
-LaTeX Warning: Citation `kurzweil2005singularity' on page 3 undefined on input line 62.
-
 LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/b/n' will be
 (Font)              scaled to size 13.10403pt on input line 66.
 LaTeX Font Info:    Trying to load font information for TS1+DejaVuSans-TLF on input line 69.
-(/usr/share/texlive/texmf-dist/tex/latex/dejavu/TS1DejaVuSans-TLF.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/dejavu/TS1DejaVuSans-TLF.fd
 File: TS1DejaVuSans-TLF.fd 2011/10/30 Font definitions for TS1/DejaVuSans-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/DejaVuSans-TLF/m/n' will be
 (Font)              scaled to size 10.92004pt on input line 69.
-
-
-LaTeX Warning: Citation `fur1996grundgesetz' on page 3 undefined on input line 69.
-
-
-LaTeX Warning: Citation `lee2016cochlear' on page 3 undefined on input line 71.
-
-
-LaTeX Warning: Citation `plavsienkova2021healthy' on page 3 undefined on input line 79.
-
-[3]
-
-LaTeX Warning: Citation `das2022locked' on page 4 undefined on input line 87.
-
-
+ [3]
 Overfull \hbox (1.01318pt too wide) in paragraph at lines 103--104
 \T1/DejaVuSans-TLF/m/n/12 Quelle (https://www.br.de/br-fernsehen/sendungen/sehen-statt-hoeren/ci-zwang-
  []
 
 [4]
 
-LaTeX Warning: Citation `lee2016cochlear' on page 5 undefined on input line 110.
-
-
-LaTeX Warning: Citation `das2022locked' on page 5 undefined on input line 111.
-
-
-LaTeX Warning: Citation `rowland1996stratospheric' on page 5 undefined on input line 116.
-
-
-LaTeX Warning: Citation `zarzycki2020stimulation' on page 5 undefined on input line 123.
-
-
 LaTeX Warning: Citation `al2021impact' on page 5 undefined on input line 125.
-
-
-LaTeX Warning: Citation `logothetis2010effects' on page 5 undefined on input line 126.
-
-
-LaTeX Warning: Citation `lee2016cochlear' on page 5 undefined on input line 138.
-
-
-LaTeX Warning: Citation `SUTHANA2014996' on page 5 undefined on input line 141.
 
 [5] [6]
 
@@ -447,65 +365,7 @@ LaTeX Warning: Citation `Kahn' on page 7 undefined on input line 153.
 
 LaTeX Warning: Citation `Aziz 2009 S.7' on page 7 undefined on input line 153.
 
-
-LaTeX Warning: Citation `khan_aziz_2019' on page 7 undefined on input line 154.
-
 [7]
-
-LaTeX Warning: Citation `ai_act_eu_2021' on page 8 undefined on input line 170.
-
-
-LaTeX Warning: Citation `ai_act_deal_2023' on page 8 undefined on input line 171.
-
-
-LaTeX Warning: Citation `lee2016cochlear' on page 8 undefined on input line 173.
-
-
-LaTeX Warning: Citation `khan_aziz_2019' on page 8 undefined on input line 180.
-
-
-LaTeX Warning: Citation `khan_aziz_2019' on page 8 undefined on input line 181.
-
-
-LaTeX Warning: Citation `khan_aziz_2019' on page 8 undefined on input line 182.
-
-
-LaTeX Warning: Citation `khan_aziz_2019' on page 8 undefined on input line 183.
-
-
-LaTeX Warning: Citation `Burwell:2017aa' on page 8 undefined on input line 185.
-
-
-LaTeX Warning: Citation `khan_aziz_2019' on page 8 undefined on input line 185.
-
-
-LaTeX Warning: Citation `Burwell:2017aa' on page 8 undefined on input line 186.
-
-
-LaTeX Warning: Citation `Burwell:2017aa' on page 8 undefined on input line 186.
-
-
-LaTeX Warning: Citation `Burwell:2017aa' on page 8 undefined on input line 187.
-
-
-LaTeX Warning: Citation `khan_aziz_2019' on page 8 undefined on input line 188.
-
-
-LaTeX Warning: Citation `khan_aziz_2019' on page 8 undefined on input line 189.
-
-
-LaTeX Warning: Citation `khan_aziz_2019' on page 8 undefined on input line 190.
-
-
-LaTeX Warning: Citation `khan_aziz_2019' on page 8 undefined on input line 192.
-
-
-LaTeX Warning: Citation `khan_aziz_2019' on page 8 undefined on input line 193.
-
-
-LaTeX Warning: Citation `Burwell:2017aa' on page 8 undefined on input line 194.
-
-
 Overfull \hbox (2.32793pt too wide) in paragraph at lines 176--195
 \T1/DejaVuSans-TLF/m/n/12 Die nächs-te Ri-si-ko-ka-te-go-rie be-zieht sich auf Or-ga-ni-sa-tio-nen und Fir-men, die durch
  []
@@ -519,20 +379,17 @@ Underfull \hbox (badness 1694) in paragraph at lines 61--63
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
  8176 strings out of 480194
  159192 string characters out of 5893741
- 596824 words of memory out of 5000000
+ 596825 words of memory out of 5000000
  26013 multiletter control sequences out of 15000+600000
  500928 words of font info for 61 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  122i,8n,120p,10709b,366s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavusans_t1-type1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavusans_ts1.enc} </home/marcel/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcss1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans-Oblique.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans.pfb>
-Output written on Ethik.pdf (11 pages, 107889 bytes).
+Output written on Ethik.pdf (11 pages, 107162 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream
