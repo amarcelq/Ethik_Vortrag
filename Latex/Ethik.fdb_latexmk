@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex Ethik"] 1702327271 "Ethik.aux" "Ethik.bbl" "Ethik" 1702327657
+["bibtex Ethik"] 1702328412 "Ethik.aux" "Ethik.bbl" "Ethik" 1702328413
   "/usr/share/texlive/texmf-dist/bibtex/bst/ieeetran/IEEEtran.bst" 1440712899 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "Ethik.aux" 1702327657 2379 d04af41829c47526f87fbe36819a497e "pdflatex"
-  "ref.bib" 1702327270 13858 94f32b81ba049dd7d63e898532001c03 ""
+  "Ethik.aux" 1702328413 2391 1765dc4fcf7f6e31780f7fd796edf2af "pdflatex"
+  "ref.bib" 1702328063 14203 8fd7a0df3ef8993765f92b8a1d4c7f12 ""
   (generated)
   "Ethik.bbl"
   "Ethik.blg"
-["pdflatex"] 1702327657 "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex" "Ethik.pdf" "Ethik" 1702327657
+["pdflatex"] 1702328412 "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex" "Ethik.pdf" "Ethik" 1702328413
   "/etc/texmf/web2c/texmf.cnf" 1698262773 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex" 1702327656 24739 0ccaeff1db755e8679cc95a126eff082 ""
+  "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/Ethik.tex" 1702328411 23777 ddb4574c974ed32bc32b5bd3c7d35fed ""
   "/home/marcel/texmf/tex/latex/oth/Klassen/OTHRartcl.cls" 1700235771 146 2e4f5f644b294ae21aec6d6101815d9d ""
   "/home/marcel/texmf/tex/latex/oth/common/OTHR.sty" 1700235771 260 ee0f8c788031badfbd78ef7aafbafc98 ""
   "/home/marcel/texmf/tex/latex/oth/common/OTHR_clscommons.sty" 1700235771 6986 7f2b6ccc6f6ff058da66eb38ea5afcb7 ""
@@ -94,9 +94,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1698266018 4036811 4cb80868003c86b962b6b5ae1e1e2902 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1698266022 1848956 5e9f8a279a1c00daf8c0477a0e841cdd ""
-  "Ethik.aux" 1702327657 2379 d04af41829c47526f87fbe36819a497e "pdflatex"
-  "Ethik.bbl" 1702327272 6785 bb0d1db186f788ce69c63fddac41c07f "bibtex Ethik"
-  "Ethik.tex" 1702327656 24739 0ccaeff1db755e8679cc95a126eff082 ""
+  "Ethik.aux" 1702328413 2391 1765dc4fcf7f6e31780f7fd796edf2af "pdflatex"
+  "Ethik.bbl" 1702328412 7035 e71a1d7c84a542cbbada2cff029ce461 "bibtex Ethik"
+  "Ethik.tex" 1702328411 23777 ddb4574c974ed32bc32b5bd3c7d35fed ""
   (generated)
   "Ethik.aux"
   "Ethik.log"
