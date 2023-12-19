@@ -2349,9 +2349,23 @@
     <bcf:citekey order="3">Merzlyakov2022</bcf:citekey>
     <bcf:citekey order="4">warwick2000cyborg</bcf:citekey>
     <bcf:citekey order="5">breczko2021human</bcf:citekey>
-    <bcf:citekey order="6">Merzlyakov2022</bcf:citekey>
-    <bcf:citekey order="7">warwick2000cyborg</bcf:citekey>
-    <bcf:citekey order="8">breczko2021human</bcf:citekey>
+    <bcf:citekey order="6">schildmann1999normal</bcf:citekey>
+    <bcf:citekey order="7">aguayo2023inklusion</bcf:citekey>
+    <bcf:citekey order="8">lebenshilfeFlyer</bcf:citekey>
+    <bcf:citekey order="9">perlmutter2006deep</bcf:citekey>
+    <bcf:citekey order="10">hallett2007transcranial</bcf:citekey>
+    <bcf:citekey order="11">luber2014enhancement</bcf:citekey>
+    <bcf:citekey order="12">kurzweil2005singularity</bcf:citekey>
+    <bcf:citekey order="13">Merzlyakov2022</bcf:citekey>
+    <bcf:citekey order="14">warwick2000cyborg</bcf:citekey>
+    <bcf:citekey order="15">breczko2021human</bcf:citekey>
+    <bcf:citekey order="16">schildmann1999normal</bcf:citekey>
+    <bcf:citekey order="17">aguayo2023inklusion</bcf:citekey>
+    <bcf:citekey order="18">lebenshilfeFlyer</bcf:citekey>
+    <bcf:citekey order="19">perlmutter2006deep</bcf:citekey>
+    <bcf:citekey order="20">hallett2007transcranial</bcf:citekey>
+    <bcf:citekey order="21">luber2014enhancement</bcf:citekey>
+    <bcf:citekey order="22">kurzweil2005singularity</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

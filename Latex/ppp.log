@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.12.12)  19 DEC 2023 16:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.12.12)  19 DEC 2023 20:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1091,7 +1091,7 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'ppp.bbl' found.
  (./ppp.bbl
 LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/n' will be
-(Font)              scaled to size 7.28003pt on input line 52.
+(Font)              scaled to size 7.28003pt on input line 51.
 )
 Package biblatex Info: Reference section=0 on input line 99.
 Package biblatex Info: Reference segment=0 on input line 99.
@@ -1103,14 +1103,14 @@ Overfull \hbox (0.49431pt too wide) in paragraph at lines 99--99
 []  
  []
 
-<OTHR_OTHR_Logo.pdf, id=30, 1092.08pt x 189.70876pt>
+<OTHR_OTHR_Logo.pdf, id=34, 1092.08pt x 189.70876pt>
 File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
 <use OTHR_OTHR_Logo.pdf>
 Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 99.
 (pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
 LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/n' will be
 (Font)              scaled to size 10.01004pt on input line 99.
-<pictures/Video_Vorschau.png, id=32, 1156.32pt x 600.2425pt>
+<pictures/Video_Vorschau.png, id=36, 1156.32pt x 600.2425pt>
 File: pictures/Video_Vorschau.png Graphic file (type png)
 <use pictures/Video_Vorschau.png>
 Package pdftex.def Info: pictures/Video_Vorschau.png  used on input line 108.
@@ -1234,9 +1234,11 @@ Overfull \hbox (0.99431pt too wide) has occurred while \output is active
 [4
 
 ]
+LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/b/n' will be
+(Font)              scaled to size 14.56006pt on input line 152.
 File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
 <use OTHR_OTHR_Logo.pdf>
-Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 149.
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 152.
 (pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
 
 Overfull \hbox (121.43797pt too wide) has occurred while \output is active
@@ -1251,9 +1253,11 @@ Overfull \hbox (0.99431pt too wide) has occurred while \output is active
 [5
 
 ]
+LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/n' will be
+(Font)              scaled to size 13.28613pt on input line 165.
 File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
 <use OTHR_OTHR_Logo.pdf>
-Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 158.
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 165.
 (pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
 
 Overfull \hbox (121.43797pt too wide) has occurred while \output is active
@@ -1270,7 +1274,7 @@ Overfull \hbox (0.99431pt too wide) has occurred while \output is active
 ]
 File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
 <use OTHR_OTHR_Logo.pdf>
-Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 163.
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 175.
 (pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
 
 Overfull \hbox (121.43797pt too wide) has occurred while \output is active
@@ -1285,6 +1289,57 @@ Overfull \hbox (0.99431pt too wide) has occurred while \output is active
 [7
 
 ]
+LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/b/n' will be
+(Font)              scaled to size 13.28613pt on input line 188.
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 188.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[8
+
+]
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 191.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[9
+
+]
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 193.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[10]
 \tf@nav=\write7
 \openout7 = `ppp.nav'.
 
@@ -1300,24 +1355,24 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
 Package rerunfilecheck Info: File `ppp.out' has not changed.
-(rerunfilecheck)             Checksum: DF3D273791DD1BF300CBB46112741CEA;481.
+(rerunfilecheck)             Checksum: 651C75074E0A6FE6B2C29E3E46036718;717.
 Package logreq Info: Writing requests to 'ppp.run.xml'.
 \openout1 = `ppp.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35404 strings out of 480194
- 692522 string characters out of 5893741
- 1477105 words of memory out of 5000000
- 52655 multiletter control sequences out of 15000+600000
- 509903 words of font info for 94 fonts, out of 8000000 for 9000
+ 35457 strings out of 480194
+ 694194 string characters out of 5893741
+ 1480588 words of memory out of 5000000
+ 52690 multiletter control sequences out of 15000+600000
+ 517241 words of font info for 100 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
  128i,16n,139p,1281b,2455s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_t1-type1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavusans_t1-type1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on ppp.pdf (7 pages, 768403 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavusans_t1-type1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_t1-type1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on ppp.pdf (10 pages, 786920 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
- 22 named destinations out of 1000 (max. 500000)
- 85 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 175 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 500000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
 

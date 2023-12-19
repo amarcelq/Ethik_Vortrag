@@ -19,6 +19,36 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{aguayo2023inklusion}{book}{}
+      \name{author}{2}{}{%
+        {{hash=ec3a6b102615142d72317b56e371d88c}{%
+           family={Aguayo-Krauthausen},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5401726ba0de7f578a24c9ea27e6bfc2}{%
+           family={Kulik},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Rowohlt E-Book}%
+      }
+      \strng{namehash}{7c5c643b11dab61addbcfa445ae3becd}
+      \strng{fullhash}{7c5c643b11dab61addbcfa445ae3becd}
+      \strng{bibnamehash}{7c5c643b11dab61addbcfa445ae3becd}
+      \strng{authorbibnamehash}{7c5c643b11dab61addbcfa445ae3becd}
+      \strng{authornamehash}{7c5c643b11dab61addbcfa445ae3becd}
+      \strng{authorfullhash}{7c5c643b11dab61addbcfa445ae3becd}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783644014664}
+      \field{title}{Wer Inklusion will, findet einen Weg. Wer sie nicht will, findet Ausreden.}
+      \field{year}{2023}
+    \endentry
     \entry{breczko2021human}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -49,6 +79,107 @@
       \field{year}{2021}
       \field{pages}{95\bibrangedash 108}
       \range{pages}{14}
+    \endentry
+    \entry{lebenshilfeFlyer}{misc}{}
+      \list{organization}{1}{%
+        {Lebenshilfe}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Flyer}
+      \field{note}{Zugriff am 03.12.2023}
+      \field{title}{Die Lebenshilfe stellt sich vor}
+      \field{year}{2021}
+    \endentry
+    \entry{hallett2007transcranial}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4eda77646f6b4d1aaa15bc707db903d9}{%
+           family={Hallett},
+           familyi={H\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4eda77646f6b4d1aaa15bc707db903d9}
+      \strng{fullhash}{4eda77646f6b4d1aaa15bc707db903d9}
+      \strng{bibnamehash}{4eda77646f6b4d1aaa15bc707db903d9}
+      \strng{authorbibnamehash}{4eda77646f6b4d1aaa15bc707db903d9}
+      \strng{authornamehash}{4eda77646f6b4d1aaa15bc707db903d9}
+      \strng{authorfullhash}{4eda77646f6b4d1aaa15bc707db903d9}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neuron}
+      \field{number}{2}
+      \field{title}{Transcranial magnetic stimulation: a primer}
+      \field{volume}{55}
+      \field{year}{2007}
+      \field{pages}{187\bibrangedash 199}
+      \range{pages}{13}
+    \endentry
+    \entry{kurzweil2005singularity}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=0adc9b7df5d54aca253a97676a4f9ee3}{%
+           family={Kurzweil},
+           familyi={K\bibinitperiod},
+           given={Ray},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0adc9b7df5d54aca253a97676a4f9ee3}
+      \strng{fullhash}{0adc9b7df5d54aca253a97676a4f9ee3}
+      \strng{bibnamehash}{0adc9b7df5d54aca253a97676a4f9ee3}
+      \strng{authorbibnamehash}{0adc9b7df5d54aca253a97676a4f9ee3}
+      \strng{authornamehash}{0adc9b7df5d54aca253a97676a4f9ee3}
+      \strng{authorfullhash}{0adc9b7df5d54aca253a97676a4f9ee3}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Ethics and emerging technologies}
+      \field{title}{The singularity is near}
+      \field{year}{2005}
+      \field{pages}{393\bibrangedash 406}
+      \range{pages}{14}
+    \endentry
+    \entry{luber2014enhancement}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f738704575437c1dd8f0e95e1138bb21}{%
+           family={Luber},
+           familyi={L\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod}}}%
+        {{hash=bc955e6240d494ffa085104847c1b6c4}{%
+           family={Lisanby},
+           familyi={L\bibinitperiod},
+           given={Sarah\bibnamedelima H},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{3804704ed5e503df081a9ac58acc541b}
+      \strng{fullhash}{3804704ed5e503df081a9ac58acc541b}
+      \strng{bibnamehash}{3804704ed5e503df081a9ac58acc541b}
+      \strng{authorbibnamehash}{3804704ed5e503df081a9ac58acc541b}
+      \strng{authornamehash}{3804704ed5e503df081a9ac58acc541b}
+      \strng{authorfullhash}{3804704ed5e503df081a9ac58acc541b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neuroimage}
+      \field{title}{Enhancement of human cognitive performance using transcranial magnetic stimulation (TMS)}
+      \field{volume}{85}
+      \field{year}{2014}
+      \field{pages}{961\bibrangedash 970}
+      \range{pages}{10}
     \endentry
     \entry{Merzlyakov2022}{article}{}
       \name{author}{1}{}{%
@@ -86,6 +217,63 @@
       \verb{url}
       \verb https://doi.org/10.1134/S1019331622120073
       \endverb
+    \endentry
+    \entry{perlmutter2006deep}{article}{}
+      \name{author}{2}{}{%
+        {{hash=596d644a698f107576c91c150af8c2c4}{%
+           family={Perlmutter},
+           familyi={P\bibinitperiod},
+           given={Joel\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=4d3a0db2f056af5a6de1de855e38aabe}{%
+           family={Mink},
+           familyi={M\bibinitperiod},
+           given={Jonathan\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{a2d5682f6810f8de90a429b0dfd81165}
+      \strng{fullhash}{a2d5682f6810f8de90a429b0dfd81165}
+      \strng{bibnamehash}{a2d5682f6810f8de90a429b0dfd81165}
+      \strng{authorbibnamehash}{a2d5682f6810f8de90a429b0dfd81165}
+      \strng{authornamehash}{a2d5682f6810f8de90a429b0dfd81165}
+      \strng{authorfullhash}{a2d5682f6810f8de90a429b0dfd81165}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annu. Rev. Neurosci.}
+      \field{title}{Deep brain stimulation}
+      \field{volume}{29}
+      \field{year}{2006}
+      \field{pages}{229\bibrangedash 257}
+      \range{pages}{29}
+    \endentry
+    \entry{schildmann1999normal}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ffe74391da2aab8beb25f84369456edf}{%
+           family={Schildmann},
+           familyi={S\bibinitperiod},
+           given={Ulrike},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Studien Verlag}%
+      }
+      \strng{namehash}{ffe74391da2aab8beb25f84369456edf}
+      \strng{fullhash}{ffe74391da2aab8beb25f84369456edf}
+      \strng{bibnamehash}{ffe74391da2aab8beb25f84369456edf}
+      \strng{authorbibnamehash}{ffe74391da2aab8beb25f84369456edf}
+      \strng{authornamehash}{ffe74391da2aab8beb25f84369456edf}
+      \strng{authorfullhash}{ffe74391da2aab8beb25f84369456edf}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Was ist normal? Normalität-Behinderung-Geschlecht}
+      \field{year}{1999}
     \endentry
     \entry{warwick2000cyborg}{article}{}
       \name{author}{1}{}{%
