@@ -19,35 +19,100 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
-    \entry{aguayo2023inklusion}{book}{}
-      \name{author}{2}{}{%
-        {{hash=ec3a6b102615142d72317b56e371d88c}{%
-           family={Aguayo-Krauthausen},
-           familyi={A\bibinithyphendelim K\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod}}}%
-        {{hash=5401726ba0de7f578a24c9ea27e6bfc2}{%
-           family={Kulik},
-           familyi={K\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
+    \entry{breczko2021human}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=dd99b40c21c8370d8c9a08184c05d90d}{%
+           family={Breczko},
+           familyi={B\bibinitperiod},
+           given={Anetta},
+           giveni={A\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Rowohlt E-Book}%
+        {Temida 2}%
       }
-      \strng{namehash}{7c5c643b11dab61addbcfa445ae3becd}
-      \strng{fullhash}{7c5c643b11dab61addbcfa445ae3becd}
-      \strng{bibnamehash}{7c5c643b11dab61addbcfa445ae3becd}
-      \strng{authorbibnamehash}{7c5c643b11dab61addbcfa445ae3becd}
-      \strng{authornamehash}{7c5c643b11dab61addbcfa445ae3becd}
-      \strng{authorfullhash}{7c5c643b11dab61addbcfa445ae3becd}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \strng{namehash}{d584355f330e984cdfa4066487537777}
+      \strng{fullhash}{d584355f330e984cdfa4066487537777}
+      \strng{bibnamehash}{d584355f330e984cdfa4066487537777}
+      \strng{authorbibnamehash}{d584355f330e984cdfa4066487537777}
+      \strng{authornamehash}{d584355f330e984cdfa4066487537777}
+      \strng{authorfullhash}{d584355f330e984cdfa4066487537777}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{9783644014664}
-      \field{title}{Wer Inklusion will, findet einen Weg. Wer sie nicht will, findet Ausreden.}
-      \field{year}{2023}
+      \field{journaltitle}{Bia{ł}ostockie Studia Prawnicze}
+      \field{number}{26}
+      \field{title}{Human Enhancement in the Context of Disability (Bioethical Considerations from the Perspective of Transhumanism)}
+      \field{volume}{3}
+      \field{year}{2021}
+      \field{pages}{95\bibrangedash 108}
+      \range{pages}{14}
+    \endentry
+    \entry{Merzlyakov2022}{article}{}
+      \name{author}{1}{}{%
+        {{hash=014b9d3defc3f639da98fc303168a65c}{%
+           family={Merzlyakov},
+           familyi={M\bibinitperiod},
+           given={S.\bibnamedelimi S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{014b9d3defc3f639da98fc303168a65c}
+      \strng{fullhash}{014b9d3defc3f639da98fc303168a65c}
+      \strng{bibnamehash}{014b9d3defc3f639da98fc303168a65c}
+      \strng{authorbibnamehash}{014b9d3defc3f639da98fc303168a65c}
+      \strng{authornamehash}{014b9d3defc3f639da98fc303168a65c}
+      \strng{authorfullhash}{014b9d3defc3f639da98fc303168a65c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1555-6492}
+      \field{journaltitle}{Herald of the Russian Academy of Sciences}
+      \field{month}{09}
+      \field{number}{6}
+      \field{title}{Posthumanism vs. Transhumanism: From the “End of Exceptionalism” to “Technological Humanism”}
+      \field{volume}{92}
+      \field{year}{2022}
+      \field{pages}{S475\bibrangedash S482}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1134/S1019331622120073
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1134/S1019331622120073
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1134/S1019331622120073
+      \endverb
+    \endentry
+    \entry{warwick2000cyborg}{article}{}
+      \name{author}{1}{}{%
+        {{hash=30f04cf63faaa91705a4f86600c0d4f6}{%
+           family={Warwick},
+           familyi={W\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Howard S Mittman}%
+      }
+      \strng{namehash}{30f04cf63faaa91705a4f86600c0d4f6}
+      \strng{fullhash}{30f04cf63faaa91705a4f86600c0d4f6}
+      \strng{bibnamehash}{30f04cf63faaa91705a4f86600c0d4f6}
+      \strng{authorbibnamehash}{30f04cf63faaa91705a4f86600c0d4f6}
+      \strng{authornamehash}{30f04cf63faaa91705a4f86600c0d4f6}
+      \strng{authorfullhash}{30f04cf63faaa91705a4f86600c0d4f6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wired}
+      \field{number}{2}
+      \field{title}{Cyborg 1.0}
+      \field{volume}{8}
+      \field{year}{2000}
     \endentry
   \enddatalist
 \endrefsection

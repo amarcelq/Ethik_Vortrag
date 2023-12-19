@@ -1743,10 +1743,10 @@ INPUT ppp.bbl
 INPUT ./ppp.bbl
 INPUT ./ppp.bbl
 INPUT ppp.bbl
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-tlf-t1.tfm
 INPUT ./ppp.nav
 INPUT ppp.nav
 INPUT ppp.nav
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-tlf-t1.tfm
 INPUT /home/marcel/texmf/tex/latex/oth/logos/OTHR_OTHR_Logo.pdf
 INPUT /home/marcel/texmf/tex/latex/oth/logos/OTHR_OTHR_Logo.pdf
@@ -1837,7 +1837,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-Bold-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
@@ -1852,8 +1851,12 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
 INPUT /home/marcel/texmf/tex/latex/oth/logos/OTHR_OTHR_Logo.pdf
 INPUT /home/marcel/texmf/tex/latex/oth/logos/OTHR_OTHR_Logo.pdf
 INPUT /home/marcel/texmf/tex/latex/oth/logos/OTHR_OTHR_Logo.pdf
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/dejavu/DejaVuSans-Bold-tlf-t1.vf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSans-Bold-tlf-t1--base.tfm
+INPUT /home/marcel/texmf/tex/latex/oth/logos/OTHR_OTHR_Logo.pdf
+INPUT /home/marcel/texmf/tex/latex/oth/logos/OTHR_OTHR_Logo.pdf
+INPUT /home/marcel/texmf/tex/latex/oth/logos/OTHR_OTHR_Logo.pdf
+INPUT /home/marcel/texmf/tex/latex/oth/logos/OTHR_OTHR_Logo.pdf
+INPUT /home/marcel/texmf/tex/latex/oth/logos/OTHR_OTHR_Logo.pdf
+INPUT /home/marcel/texmf/tex/latex/oth/logos/OTHR_OTHR_Logo.pdf
 INPUT /home/marcel/texmf/tex/latex/oth/logos/OTHR_OTHR_Logo.pdf
 INPUT /home/marcel/texmf/tex/latex/oth/logos/OTHR_OTHR_Logo.pdf
 INPUT /home/marcel/texmf/tex/latex/oth/logos/OTHR_OTHR_Logo.pdf
@@ -1865,9 +1868,8 @@ INPUT ./ppp.out
 INPUT ./ppp.out
 INPUT ppp.run.xml
 OUTPUT ppp.run.xml
-INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavusans_t1-type1.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_t1-type1.enc
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans-Bold.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavusans_t1-type1.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb
