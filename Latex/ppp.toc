@@ -1,4 +1,0 @@
-\babel@toc {ngerman}{}\relax 
-\beamer@sectionintoc {1}{Einleitung}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{Begriffserleuterungen}{4}{0}{1}
-\beamer@subsectionintoc {1}{2}{Was ist normal?}{5}{0}{1}
