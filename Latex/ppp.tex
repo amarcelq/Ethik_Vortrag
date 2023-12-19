@@ -75,6 +75,15 @@
 \usepackage{xcolor}
 \usepackage{ulem}
 \usepackage[usestackEOL]{stackengine}
+\usepackage{hyperref}
+\usepackage{biblatex}
+\usepackage{breakcites}
+\usepackage{etoolbox}
+
+
+\addbibresource{ref.bib}
+
+\patchcmd{\thebibliography}{\footnotesize}{\tiny}{}{}
 
 % this adds the content table for each section
 \AtBeginSection[]
@@ -85,13 +94,23 @@
   \end{frame}
 }
 
+\date{15. Januar 2024}
+
 \begin{document}
 
+\begin{frame}{YouTube Video Vorschau}
+    \centering
+    \href{https://www.youtube.com/watch?v=PLk8Pm_XBJE&t=612s}{\includegraphics[width=0.8\linewidth]{pictures/Video_Vorschau.png}}
+    \vspace{-0.2cm}
+    \begin{flushleft}
+        \tiny Quelle: \url{https://www.youtube.com/watch?v=PLk8Pm_XBJE}, zuletzt besucht am 12.12.2023
+    \end{flushleft}
+\end{frame}
+
 \title{Transhumanismus}
-\subtitle{Vortrag oder so}
-\author{namen}
+\subtitle{Fortschritt oder Dystopie?}
+\author{Marcel Ott, Nicolas Zander, Lorenz Branner, Severin Bittl, Thomas Gailinger}
 \institute{Ethik in der Informatik}
-\date{\today}
 
 \maketitle
 
@@ -105,7 +124,7 @@
 \begin{frame}
 	\frametitle{Basics}
 	\begin{itemize}
-	\item Nachfrage unterliegt einer nat\"urlichen \textbf{Schwankung} und Trends
+	\item Nachfrage unterliegt einer nat\"urlichen \textbf{Schwankung} und Trends~\cite{aguayo2023inklusion}
 	\begin{itemize}
 	\item (Saisonale Schwankung, steigende Nachfrage, nat\"urliche Varianz)
 	\end{itemize}
@@ -113,4 +132,8 @@
 	\item Mithilfe der Prognose wird in der operativen Planung ein \textbf{Produktionsplan} erstellt
 	\end{itemize}
 \end{frame}
+
+\newpage
+\printbibliography % Druckt das Literaturverzeichnis in kleinerer Schriftgröße aus
+
 \end{document}
