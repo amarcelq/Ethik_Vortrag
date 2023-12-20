@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber ppp"] 1703074129 "ppp.bcf" "ppp.bbl" "ppp" 1703074178
-  "ppp.bcf" 1703074178 110887 870757d9af61f30083b822b7f1988fdc "pdflatex"
+["biber ppp"] 1703075879 "ppp.bcf" "ppp.bbl" "ppp" 1703075965
+  "ppp.bcf" 1703075964 110887 7ed6c2e391cc24619d4e7b507e5ccfe0 "pdflatex"
   "ref.bib" 1703069344 15396 6019b9a52676d2ceeeedaf79db5cbd79 ""
   (generated)
   "ppp.bbl"
   "ppp.blg"
-["pdflatex"] 1703074175 "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/ppp.tex" "ppp.pdf" "ppp" 1703074178
+["pdflatex"] 1703075962 "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/ppp.tex" "ppp.pdf" "ppp" 1703075965
   "/etc/texmf/web2c/texmf.cnf" 1698262773 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/ppp.tex" 1703074175 16980 159931dcf633a2f9ecf7874015d2ce50 ""
+  "/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/ppp.tex" 1703075962 17146 26ccb6519fed50e7a381e0231fdd701f ""
   "/home/marcel/texmf/tex/latex/oth/beamer/base/themes/color/beamercolorthemeothr.sty" 1700235771 2233 ad2e10c6e91ddaec5f5135ea1807b6e8 ""
   "/home/marcel/texmf/tex/latex/oth/beamer/base/themes/font/beamerfontthemeothr.sty" 1700235771 1181 21c2047dcf6167c2bccdb28435819ac7 ""
   "/home/marcel/texmf/tex/latex/oth/beamer/base/themes/inner/beamerinnerthemeothr.sty" 1700235771 5314 0d401128fef4c6a12cfce2078d4642b5 ""
@@ -284,13 +284,13 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1698266018 4036811 4cb80868003c86b962b6b5ae1e1e2902 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1702386318 1848962 70e5c167928b9c286fbcaaf7a7f29f6e ""
   "pictures/Video_Vorschau.png" 1702387133 500236 194b047b529098c6cf993d839f822bdd ""
-  "ppp.aux" 1703074177 14675 cad32d5262a8a95f2cd1e96a971f17ea "pdflatex"
-  "ppp.bbl" 1703074129 36725 380bce9ab9bab33a83a6cc677ec21144 "biber ppp"
-  "ppp.nav" 1703074178 5923 c07edec53de1ba0bfe9715ebab4f404e "pdflatex"
-  "ppp.out" 1703074177 3420 4470c837502110bb2fe79e930d4ee819 "pdflatex"
-  "ppp.run.xml" 1703074178 2321 1d04063437459a1e01bf22480a0a14a5 "pdflatex"
-  "ppp.tex" 1703074175 16980 159931dcf633a2f9ecf7874015d2ce50 ""
-  "ppp.toc" 1703074178 856 49dde0668c8d863ad81c9194739edf58 "pdflatex"
+  "ppp.aux" 1703075964 14618 568486f36422b98932924aac772bd470 "pdflatex"
+  "ppp.bbl" 1703075880 36725 380bce9ab9bab33a83a6cc677ec21144 "biber ppp"
+  "ppp.nav" 1703075964 5885 b8764b609a773b40c0e5a1a19067dc0d "pdflatex"
+  "ppp.out" 1703075964 3467 e7c9f7c6dd36849e90c1bab57ee7d6e5 "pdflatex"
+  "ppp.run.xml" 1703075964 2321 1d04063437459a1e01bf22480a0a14a5 "pdflatex"
+  "ppp.tex" 1703075962 17146 26ccb6519fed50e7a381e0231fdd701f ""
+  "ppp.toc" 1703075964 855 1f585903e1aacedd65d95d9176461f5a "pdflatex"
   "ref.bib" 1703069344 15396 6019b9a52676d2ceeeedaf79db5cbd79 ""
   (generated)
   "ppp.aux"

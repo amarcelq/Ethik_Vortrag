@@ -5,10 +5,10 @@
 \beamer@subsectionintoc {1}{3}{Einige Chancen des Transhumanismus}{8}{0}{1}
 \beamer@sectionintoc {2}{Ethische Fragestellungen des Transhumanismus}{9}{0}{2}
 \beamer@subsectionintoc {2}{1}{Selbstbestimmung des Individuums}{10}{0}{2}
-\beamer@subsectionintoc {4}{1}{Ethische Forschung und wie es aktuell läuft}{20}{0}{2}
-\beamer@sectionintoc {5}{Risikoberwertung}{21}{0}{3}
-\beamer@subsectionintoc {5}{1}{Regulierungen}{22}{0}{3}
-\beamer@subsectionintoc {5}{2}{Risiken}{23}{0}{3}
-\beamer@subsubsectionintoc {5}{2}{1}{Individuum}{24}{0}{3}
-\beamer@subsubsectionintoc {5}{2}{2}{Organisationen}{25}{0}{3}
-\beamer@subsubsectionintoc {5}{2}{3}{Gesellschaft}{26}{0}{3}
+\beamer@subsectionintoc {3}{1}{Ethishe Forschung und wie es aktuell läuft}{20}{0}{2}
+\beamer@sectionintoc {4}{Risikoberwertung}{21}{0}{3}
+\beamer@subsectionintoc {4}{1}{Regulierungen}{22}{0}{3}
+\beamer@subsectionintoc {4}{2}{Risiken}{23}{0}{3}
+\beamer@subsubsectionintoc {4}{2}{1}{Individuum}{24}{0}{3}
+\beamer@subsubsectionintoc {4}{2}{2}{Organisationen}{25}{0}{3}
+\beamer@subsubsectionintoc {4}{2}{3}{Gesellschaft}{26}{0}{3}
