@@ -3,3 +3,12 @@
 \beamer@subsectionintoc {1}{1}{Begriffserleuterungen}{4}{0}{1}
 \beamer@subsectionintoc {1}{2}{Was ist normal?}{5}{0}{1}
 \beamer@subsectionintoc {1}{3}{Einige Chancen des Transhumanismus}{8}{0}{1}
+\beamer@sectionintoc {2}{Ethische Fragestellungen des Transhumanismus}{9}{0}{2}
+\beamer@subsectionintoc {2}{1}{Selbstbestimmung des Individuums}{10}{0}{2}
+\beamer@subsectionintoc {5}{1}{Ethische Forschung und wie es aktuell läuft}{21}{0}{2}
+\beamer@sectionintoc {6}{Risikoberwertung}{22}{0}{3}
+\beamer@subsectionintoc {6}{1}{Regulierungen}{23}{0}{3}
+\beamer@subsectionintoc {6}{2}{Risiken}{24}{0}{3}
+\beamer@subsubsectionintoc {6}{2}{1}{Individuum}{25}{0}{3}
+\beamer@subsubsectionintoc {6}{2}{2}{Organisationen}{26}{0}{3}
+\beamer@subsubsectionintoc {6}{2}{3}{Gesellschaft}{27}{0}{3}
