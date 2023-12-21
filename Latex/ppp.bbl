@@ -1,0 +1,888 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{aguayo2023inklusion}{book}{}
+      \name{author}{2}{}{%
+        {{hash=ec3a6b102615142d72317b56e371d88c}{%
+           family={Aguayo-Krauthausen},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5401726ba0de7f578a24c9ea27e6bfc2}{%
+           family={Kulik},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Rowohlt E-Book}%
+      }
+      \strng{namehash}{7c5c643b11dab61addbcfa445ae3becd}
+      \strng{fullhash}{7c5c643b11dab61addbcfa445ae3becd}
+      \strng{bibnamehash}{7c5c643b11dab61addbcfa445ae3becd}
+      \strng{authorbibnamehash}{7c5c643b11dab61addbcfa445ae3becd}
+      \strng{authornamehash}{7c5c643b11dab61addbcfa445ae3becd}
+      \strng{authorfullhash}{7c5c643b11dab61addbcfa445ae3becd}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783644014664}
+      \field{title}{Wer Inklusion will, findet einen Weg. Wer sie nicht will, findet Ausreden.}
+      \field{year}{2023}
+    \endentry
+    \entry{ai_act_deal_2023}{misc}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Pressemitteilung}
+      \field{month}{Dezember}
+      \field{title}{Artificial Intelligence Act: deal on comprehensive rules for trustworthy AI}
+      \field{year}{2023}
+      \keyw{20231206IPR15699}
+    \endentry
+    \entry{fur1996grundgesetz}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a94af53bb68b0ab030a324085fdd540e}{%
+           family={Bildung},
+           familyi={B\bibinitperiod},
+           given={Bundeszentrale},
+           giveni={B\bibinitperiod},
+           prefix={für\bibnamedelima politische},
+           prefixi={f\bibinitperiod\bibinitdelim p\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bundeszentrale für politische Bildung}%
+      }
+      \strng{namehash}{a94af53bb68b0ab030a324085fdd540e}
+      \strng{fullhash}{a94af53bb68b0ab030a324085fdd540e}
+      \strng{bibnamehash}{a94af53bb68b0ab030a324085fdd540e}
+      \strng{authorbibnamehash}{a94af53bb68b0ab030a324085fdd540e}
+      \strng{authornamehash}{a94af53bb68b0ab030a324085fdd540e}
+      \strng{authorfullhash}{a94af53bb68b0ab030a324085fdd540e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Grundgesetz: für die Bundesrepublik Deutschland: Textausgabe}
+      \field{year}{1996}
+    \endentry
+    \entry{breczko2021human}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=dd99b40c21c8370d8c9a08184c05d90d}{%
+           family={Breczko},
+           familyi={B\bibinitperiod},
+           given={Anetta},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Temida 2}%
+      }
+      \strng{namehash}{d584355f330e984cdfa4066487537777}
+      \strng{fullhash}{d584355f330e984cdfa4066487537777}
+      \strng{bibnamehash}{d584355f330e984cdfa4066487537777}
+      \strng{authorbibnamehash}{d584355f330e984cdfa4066487537777}
+      \strng{authornamehash}{d584355f330e984cdfa4066487537777}
+      \strng{authorfullhash}{d584355f330e984cdfa4066487537777}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bia{ł}ostockie Studia Prawnicze}
+      \field{number}{26}
+      \field{title}{Human Enhancement in the Context of Disability (Bioethical Considerations from the Perspective of Transhumanism)}
+      \field{volume}{3}
+      \field{year}{2021}
+      \field{pages}{95\bibrangedash 108}
+      \range{pages}{14}
+    \endentry
+    \entry{Burwell:2017aa}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7b2273eaed4aefd9bc0709548d9204a9}{%
+           family={Burwell},
+           familyi={B\bibinitperiod},
+           given={Sasha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=996dfdee09b20df95c32e3c5cec6830d}{%
+           family={Sample},
+           familyi={S\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d09bad8a22a8d9a4a86e38edebd7307a}{%
+           family={Racine},
+           familyi={R\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{157edf137dfdaae0654f9f9e29266434}
+      \strng{fullhash}{157edf137dfdaae0654f9f9e29266434}
+      \strng{bibnamehash}{157edf137dfdaae0654f9f9e29266434}
+      \strng{authorbibnamehash}{157edf137dfdaae0654f9f9e29266434}
+      \strng{authornamehash}{157edf137dfdaae0654f9f9e29266434}
+      \strng{authorfullhash}{157edf137dfdaae0654f9f9e29266434}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Brain-Computer Interface (BCI) is a set of technologies that are of increasing interest to researchers. BCI has been proposed as assistive technology for individuals who are non-communicative or paralyzed, such as those with amyotrophic lateral sclerosis or spinal cord injury. The technology has also been suggested for enhancement and entertainment uses, and there are companies currently marketing BCI devices for those purposes (e.g., gaming) as well as health-related purposes (e.g., communication). The unprecedented direct connection created by BCI between human brains and computer hardware raises various ethical, social, and legal challenges that merit further examination and discussion.}
+      \field{isbn}{1472-6939}
+      \field{journaltitle}{BMC Medical Ethics}
+      \field{number}{1}
+      \field{title}{Ethical aspects of brain computer interfaces: a scoping review}
+      \field{volume}{18}
+      \field{year}{2017}
+      \field{pages}{60}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12910-017-0220-y
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s12910-017-0220-y
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s12910-017-0220-y
+      \endverb
+      \warn{\item Entry 'Burwell:2017aa' (ref.bib): Invalid format '2017/11/09' of date field 'date' - ignoring}
+    \endentry
+    \entry{al2021impact}{article}{}
+      \name{author}{4}{}{%
+        {{hash=590eda926b36a940387baad62ed939c2}{%
+           family={Al-Darabsah},
+           familyi={A\bibinithyphendelim D\bibinitperiod},
+           given={Isam},
+           giveni={I\bibinitperiod}}}%
+        {{hash=ddc1e4faf59edc7d7675723be4296244}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Liang},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b59a05f0cfef6e8778d88af95fdc164f}{%
+           family={Nicola},
+           familyi={N\bibinitperiod},
+           given={Wilten},
+           giveni={W\bibinitperiod}}}%
+        {{hash=be42adf27a4f5e9a7471ae9378a58c1b}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Sue\bibnamedelima Ann},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media SA}%
+      }
+      \strng{namehash}{8e752e5f84d84af4056e4f89e8a239dc}
+      \strng{fullhash}{d6738fe861e60c6979c6ee84346cd7ff}
+      \strng{bibnamehash}{8e752e5f84d84af4056e4f89e8a239dc}
+      \strng{authorbibnamehash}{8e752e5f84d84af4056e4f89e8a239dc}
+      \strng{authornamehash}{8e752e5f84d84af4056e4f89e8a239dc}
+      \strng{authorfullhash}{d6738fe861e60c6979c6ee84346cd7ff}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Systems Neuroscience}
+      \field{title}{The impact of small time delays on the onset of oscillations and synchrony in brain networks}
+      \field{volume}{15}
+      \field{year}{2021}
+      \field{pages}{688517}
+      \range{pages}{1}
+    \endentry
+    \entry{das2022locked}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=5a09445ca9332dfe48a3b1fffdac7501}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Joe\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f18a360a1e49797d4a764d1346128f6e}{%
+           family={Anosike},
+           familyi={A\bibinitperiod},
+           given={Kingsley},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a87965c7f75d0a8828c3bed75fddf143}{%
+           family={Asuncion},
+           familyi={A\bibinitperiod},
+           given={Ria\bibnamedelimb Monica\bibnamedelima D},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {StatPearls Publishing}%
+      }
+      \strng{namehash}{bf364d20918fe6ddae03a07b5e62428f}
+      \strng{fullhash}{bf364d20918fe6ddae03a07b5e62428f}
+      \strng{bibnamehash}{bf364d20918fe6ddae03a07b5e62428f}
+      \strng{authorbibnamehash}{bf364d20918fe6ddae03a07b5e62428f}
+      \strng{authornamehash}{bf364d20918fe6ddae03a07b5e62428f}
+      \strng{authorfullhash}{bf364d20918fe6ddae03a07b5e62428f}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{StatPearls [Internet]}
+      \field{title}{Locked-in syndrome}
+      \field{year}{2022}
+    \endentry
+    \entry{lebenshilfeFlyer}{misc}{}
+      \list{organization}{1}{%
+        {Lebenshilfe}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Flyer}
+      \field{note}{Zugriff am 03.12.2023}
+      \field{title}{Die Lebenshilfe stellt sich vor}
+      \field{year}{2021}
+    \endentry
+    \entry{ai_act_eu_2021}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=d7ee03a671590297f99ecda920c1cc77}{%
+           family={European\bibnamedelima Commission},
+           familyi={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Content},
+           giveni={C\bibinitperiod},
+           suffix={Directorate-General\bibnamedelimb for\bibnamedelimb Communications\bibnamedelima Networks},
+           suffixi={D\bibinithyphendelim G\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=e7e767d7c0e58b16e57d3ab16150db80}{%
+           family={Technology},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{a608cb413507f0cca0bd2ceb3aebd23d}
+      \strng{fullhash}{a608cb413507f0cca0bd2ceb3aebd23d}
+      \strng{bibnamehash}{a608cb413507f0cca0bd2ceb3aebd23d}
+      \strng{authorbibnamehash}{a608cb413507f0cca0bd2ceb3aebd23d}
+      \strng{authornamehash}{a608cb413507f0cca0bd2ceb3aebd23d}
+      \strng{authorfullhash}{a608cb413507f0cca0bd2ceb3aebd23d}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{title}{Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL LAYING DOWN HARMONISED RULES ON ARTIFICIAL INTELLIGENCE (ARTIFICIAL INTELLIGENCE ACT) AND AMENDING CERTAIN UNION LEGISLATIVE ACTS}
+      \field{year}{2021}
+    \endentry
+    \entry{brde}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0ed88c549dec816399ae07d940a3282b}{%
+           family={Fernsehen},
+           familyi={F\bibinitperiod},
+           given={BR},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0ed88c549dec816399ae07d940a3282b}
+      \strng{fullhash}{0ed88c549dec816399ae07d940a3282b}
+      \strng{bibnamehash}{0ed88c549dec816399ae07d940a3282b}
+      \strng{authorbibnamehash}{0ed88c549dec816399ae07d940a3282b}
+      \strng{authornamehash}{0ed88c549dec816399ae07d940a3282b}
+      \strng{authorfullhash}{0ed88c549dec816399ae07d940a3282b}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{10.12.2023}
+      \field{title}{Sehen statt Hören: Urteil zum Thema Zwangs-CI}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.br.de/br-fernsehen/sendungen/sehen-statt-hoeren/ci-zwang-urteil-102.html
+      \endverb
+      \verb{url}
+      \verb https://www.br.de/br-fernsehen/sendungen/sehen-statt-hoeren/ci-zwang-urteil-102.html
+      \endverb
+    \endentry
+    \entry{hallett2007transcranial}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4eda77646f6b4d1aaa15bc707db903d9}{%
+           family={Hallett},
+           familyi={H\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4eda77646f6b4d1aaa15bc707db903d9}
+      \strng{fullhash}{4eda77646f6b4d1aaa15bc707db903d9}
+      \strng{bibnamehash}{4eda77646f6b4d1aaa15bc707db903d9}
+      \strng{authorbibnamehash}{4eda77646f6b4d1aaa15bc707db903d9}
+      \strng{authornamehash}{4eda77646f6b4d1aaa15bc707db903d9}
+      \strng{authorfullhash}{4eda77646f6b4d1aaa15bc707db903d9}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neuron}
+      \field{number}{2}
+      \field{title}{Transcranial magnetic stimulation: a primer}
+      \field{volume}{55}
+      \field{year}{2007}
+      \field{pages}{187\bibrangedash 199}
+      \range{pages}{13}
+    \endentry
+    \entry{khan_aziz_2019}{article}{}
+      \name{author}{2}{}{%
+        {{hash=50246c11630f1bb620ec4cd9f4ad3a53}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Shujhat},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4d5a9b4021845a0d106d1b6f9f77370d}{%
+           family={Aziz},
+           familyi={A\bibinitperiod},
+           given={Tipu},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b57449b70291e4c99398e23b3ed13d7}
+      \strng{fullhash}{3b57449b70291e4c99398e23b3ed13d7}
+      \strng{bibnamehash}{3b57449b70291e4c99398e23b3ed13d7}
+      \strng{authorbibnamehash}{3b57449b70291e4c99398e23b3ed13d7}
+      \strng{authornamehash}{3b57449b70291e4c99398e23b3ed13d7}
+      \strng{authorfullhash}{3b57449b70291e4c99398e23b3ed13d7}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{Great advancements have recently been made to understand the brain and the potential that we can extract out of it. Much of this has been centred on modifying electrical activity of the nervous system for improved physical and cognitive performance in those with clinical impairment. However, there is a risk of going beyond purely physiological performance improvements and striving for human enhancement beyond traditional human limits. Simple ethical guidelines and legal doctrine must be examined to keep ahead of technological advancement in light of the impending mergence between biology and machine. By understanding the role of modern ethics, this review aims to appreciate the fine boundary between what is considered ethically justified for current neurotechnology.}}
+      \field{issn}{2632-1297}
+      \field{journaltitle}{Brain Communications}
+      \field{month}{09}
+      \field{number}{1}
+      \field{title}{{Transcending the brain: is there a cost to hacking the nervous system?}}
+      \field{volume}{1}
+      \field{year}{2019}
+      \field{pages}{fcz015}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/braincomms/fcz015
+      \endverb
+      \verb{eprint}
+      \verb https://academic.oup.com/braincomms/article-pdf/1/1/fcz015/33639122/fcz015.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/braincomms/fcz015
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/braincomms/fcz015
+      \endverb
+    \endentry
+    \entry{kurzweil2005singularity}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=0adc9b7df5d54aca253a97676a4f9ee3}{%
+           family={Kurzweil},
+           familyi={K\bibinitperiod},
+           given={Ray},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0adc9b7df5d54aca253a97676a4f9ee3}
+      \strng{fullhash}{0adc9b7df5d54aca253a97676a4f9ee3}
+      \strng{bibnamehash}{0adc9b7df5d54aca253a97676a4f9ee3}
+      \strng{authorbibnamehash}{0adc9b7df5d54aca253a97676a4f9ee3}
+      \strng{authornamehash}{0adc9b7df5d54aca253a97676a4f9ee3}
+      \strng{authorfullhash}{0adc9b7df5d54aca253a97676a4f9ee3}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Ethics and emerging technologies}
+      \field{title}{The singularity is near}
+      \field{year}{2005}
+      \field{pages}{393\bibrangedash 406}
+      \range{pages}{14}
+    \endentry
+    \entry{lampert2014}{article}{}
+      \name{author}{2}{}{%
+        {{hash=189b2538adfed6df938eae5386a763da}{%
+           family={Lampert},
+           familyi={L\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=32b86421a4f029fe3c19819b8622ec4f}{%
+           family={Kroll},
+           familyi={K\bibinitperiod},
+           given={Lars\bibnamedelima Eric},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Herausgeber: Robert Koch-Institut, Berlin}%
+      }
+      \strng{namehash}{38470dfe5479743d8dd3664440f6489b}
+      \strng{fullhash}{38470dfe5479743d8dd3664440f6489b}
+      \strng{bibnamehash}{38470dfe5479743d8dd3664440f6489b}
+      \strng{authorbibnamehash}{38470dfe5479743d8dd3664440f6489b}
+      \strng{authornamehash}{38470dfe5479743d8dd3664440f6489b}
+      \strng{authorfullhash}{38470dfe5479743d8dd3664440f6489b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2191-4974}
+      \field{journaltitle}{GBE kompakt}
+      \field{number}{2}
+      \field{title}{Soziale Unterschiede in der Mortalität und Lebenserwartung}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2016}
+      \field{volume}{5}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.17886/RKI-GBE-2016-017
+      \endverb
+      \verb{urlraw}
+      \verb https://www.rki.de/gbe-kompakt
+      \endverb
+      \verb{url}
+      \verb https://www.rki.de/gbe-kompakt
+      \endverb
+    \endentry
+    \entry{lee2016cochlear}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7f7449983d3ac4eef6effaf7a8cb28f1}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{7f7449983d3ac4eef6effaf7a8cb28f1}
+      \strng{fullhash}{7f7449983d3ac4eef6effaf7a8cb28f1}
+      \strng{bibnamehash}{7f7449983d3ac4eef6effaf7a8cb28f1}
+      \strng{authorbibnamehash}{7f7449983d3ac4eef6effaf7a8cb28f1}
+      \strng{authornamehash}{7f7449983d3ac4eef6effaf7a8cb28f1}
+      \strng{authorfullhash}{7f7449983d3ac4eef6effaf7a8cb28f1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science and Engineering Ethics}
+      \field{title}{Cochlear implantation, enhancements, transhumanism and posthumanism: some human questions}
+      \field{volume}{22}
+      \field{year}{2016}
+      \field{pages}{67\bibrangedash 92}
+      \range{pages}{26}
+    \endentry
+    \entry{logothetis2010effects}{article}{}
+      \name{author}{8}{}{%
+        {{hash=4176c8b9eb8ba9d0bf25cb3028bf02ac}{%
+           family={Logothetis},
+           familyi={L\bibinitperiod},
+           given={Nikos\bibnamedelima K},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=f79d703ba3f6cd74a47f68576cd89627}{%
+           family={Augath},
+           familyi={A\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=119c6b8bea341148b7b0d1936938e13a}{%
+           family={Murayama},
+           familyi={M\bibinitperiod},
+           given={Yusuke},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=885fb94364e78683e80fe3af2efa79f0}{%
+           family={Rauch},
+           familyi={R\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ff96ba3920336840dd332919f973f928}{%
+           family={Sultan},
+           familyi={S\bibinitperiod},
+           given={Fahad},
+           giveni={F\bibinitperiod}}}%
+        {{hash=2437eea0ef37051f4fcc0fa979f9be57}{%
+           family={Goense},
+           familyi={G\bibinitperiod},
+           given={Jozien},
+           giveni={J\bibinitperiod}}}%
+        {{hash=64f0f9573f702817cc5f885d54e69d8b}{%
+           family={Oeltermann},
+           familyi={O\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod}}}%
+        {{hash=761b9030387df7db98cafc84c2c98577}{%
+           family={Merkle},
+           familyi={M\bibinitperiod},
+           given={Hellmut},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group US New York}%
+      }
+      \strng{namehash}{cf6c4c87074b30c7807de5a2ec666ff9}
+      \strng{fullhash}{03c79f39886450d6c63fbf36d83a9672}
+      \strng{bibnamehash}{cf6c4c87074b30c7807de5a2ec666ff9}
+      \strng{authorbibnamehash}{cf6c4c87074b30c7807de5a2ec666ff9}
+      \strng{authornamehash}{cf6c4c87074b30c7807de5a2ec666ff9}
+      \strng{authorfullhash}{03c79f39886450d6c63fbf36d83a9672}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature neuroscience}
+      \field{number}{10}
+      \field{title}{The effects of electrical microstimulation on cortical signal propagation}
+      \field{volume}{13}
+      \field{year}{2010}
+      \field{pages}{1283\bibrangedash 1291}
+      \range{pages}{9}
+    \endentry
+    \entry{logtenberg2022beyond}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2c7c3a6914b9da0475e88a62123bfc1b}{%
+           family={LOGTENBERG},
+           familyi={L\bibinitperiod},
+           given={MARTIJN},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2c7c3a6914b9da0475e88a62123bfc1b}
+      \strng{fullhash}{2c7c3a6914b9da0475e88a62123bfc1b}
+      \strng{bibnamehash}{2c7c3a6914b9da0475e88a62123bfc1b}
+      \strng{authorbibnamehash}{2c7c3a6914b9da0475e88a62123bfc1b}
+      \strng{authornamehash}{2c7c3a6914b9da0475e88a62123bfc1b}
+      \strng{authorfullhash}{2c7c3a6914b9da0475e88a62123bfc1b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{BEYOND SCIENCE FICTION}
+      \field{year}{2022}
+    \endentry
+    \entry{luber2014enhancement}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f738704575437c1dd8f0e95e1138bb21}{%
+           family={Luber},
+           familyi={L\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod}}}%
+        {{hash=bc955e6240d494ffa085104847c1b6c4}{%
+           family={Lisanby},
+           familyi={L\bibinitperiod},
+           given={Sarah\bibnamedelima H},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{3804704ed5e503df081a9ac58acc541b}
+      \strng{fullhash}{3804704ed5e503df081a9ac58acc541b}
+      \strng{bibnamehash}{3804704ed5e503df081a9ac58acc541b}
+      \strng{authorbibnamehash}{3804704ed5e503df081a9ac58acc541b}
+      \strng{authornamehash}{3804704ed5e503df081a9ac58acc541b}
+      \strng{authorfullhash}{3804704ed5e503df081a9ac58acc541b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neuroimage}
+      \field{title}{Enhancement of human cognitive performance using transcranial magnetic stimulation (TMS)}
+      \field{volume}{85}
+      \field{year}{2014}
+      \field{pages}{961\bibrangedash 970}
+      \range{pages}{10}
+    \endentry
+    \entry{Merzlyakov2022}{article}{}
+      \name{author}{1}{}{%
+        {{hash=014b9d3defc3f639da98fc303168a65c}{%
+           family={Merzlyakov},
+           familyi={M\bibinitperiod},
+           given={S.\bibnamedelimi S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{014b9d3defc3f639da98fc303168a65c}
+      \strng{fullhash}{014b9d3defc3f639da98fc303168a65c}
+      \strng{bibnamehash}{014b9d3defc3f639da98fc303168a65c}
+      \strng{authorbibnamehash}{014b9d3defc3f639da98fc303168a65c}
+      \strng{authornamehash}{014b9d3defc3f639da98fc303168a65c}
+      \strng{authorfullhash}{014b9d3defc3f639da98fc303168a65c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1555-6492}
+      \field{journaltitle}{Herald of the Russian Academy of Sciences}
+      \field{month}{09}
+      \field{number}{6}
+      \field{title}{Posthumanism vs. Transhumanism: From the “End of Exceptionalism” to “Technological Humanism”}
+      \field{volume}{92}
+      \field{year}{2022}
+      \field{pages}{S475\bibrangedash S482}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1134/S1019331622120073
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1134/S1019331622120073
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1134/S1019331622120073
+      \endverb
+    \endentry
+    \entry{perlmutter2006deep}{article}{}
+      \name{author}{2}{}{%
+        {{hash=596d644a698f107576c91c150af8c2c4}{%
+           family={Perlmutter},
+           familyi={P\bibinitperiod},
+           given={Joel\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=4d3a0db2f056af5a6de1de855e38aabe}{%
+           family={Mink},
+           familyi={M\bibinitperiod},
+           given={Jonathan\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{a2d5682f6810f8de90a429b0dfd81165}
+      \strng{fullhash}{a2d5682f6810f8de90a429b0dfd81165}
+      \strng{bibnamehash}{a2d5682f6810f8de90a429b0dfd81165}
+      \strng{authorbibnamehash}{a2d5682f6810f8de90a429b0dfd81165}
+      \strng{authornamehash}{a2d5682f6810f8de90a429b0dfd81165}
+      \strng{authorfullhash}{a2d5682f6810f8de90a429b0dfd81165}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annu. Rev. Neurosci.}
+      \field{title}{Deep brain stimulation}
+      \field{volume}{29}
+      \field{year}{2006}
+      \field{pages}{229\bibrangedash 257}
+      \range{pages}{29}
+    \endentry
+    \entry{plavsienkova2021healthy}{article}{}
+      \name{author}{2}{}{%
+        {{hash=09666f7cfc81b7ff9b1c6888624f3dee}{%
+           family={Plašienková},
+           familyi={P\bibinitperiod},
+           given={Zlatica},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=98c7582cd3507c3651239c633346fcb3}{%
+           family={Farbák},
+           familyi={F\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc20a824a428d82eed29db5a88a4aa0f}
+      \strng{fullhash}{dc20a824a428d82eed29db5a88a4aa0f}
+      \strng{bibnamehash}{dc20a824a428d82eed29db5a88a4aa0f}
+      \strng{authorbibnamehash}{dc20a824a428d82eed29db5a88a4aa0f}
+      \strng{authornamehash}{dc20a824a428d82eed29db5a88a4aa0f}
+      \strng{authorfullhash}{dc20a824a428d82eed29db5a88a4aa0f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ethics \& Bioethics}
+      \field{number}{3-4}
+      \field{title}{Healthy people and biochemical enhancement: A new paradigmatic approach to the enhancement of human beings?}
+      \field{volume}{11}
+      \field{year}{2021}
+      \field{pages}{231\bibrangedash 239}
+      \range{pages}{9}
+    \endentry
+    \entry{rowland1996stratospheric}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4a58a1e559ebff15e9f96c2b46bda105}{%
+           family={Rowland},
+           familyi={R\bibinitperiod},
+           given={F\bibnamedelima Sherwood},
+           giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{4a58a1e559ebff15e9f96c2b46bda105}
+      \strng{fullhash}{4a58a1e559ebff15e9f96c2b46bda105}
+      \strng{bibnamehash}{4a58a1e559ebff15e9f96c2b46bda105}
+      \strng{authorbibnamehash}{4a58a1e559ebff15e9f96c2b46bda105}
+      \strng{authornamehash}{4a58a1e559ebff15e9f96c2b46bda105}
+      \strng{authorfullhash}{4a58a1e559ebff15e9f96c2b46bda105}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Angewandte Chemie International Edition in English}
+      \field{number}{16}
+      \field{title}{Stratospheric ozone depletion by chlorofluorocarbons (Nobel lecture)}
+      \field{volume}{35}
+      \field{year}{1996}
+      \field{pages}{1786\bibrangedash 1798}
+      \range{pages}{13}
+    \endentry
+    \entry{schildmann1999normal}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ffe74391da2aab8beb25f84369456edf}{%
+           family={Schildmann},
+           familyi={S\bibinitperiod},
+           given={Ulrike},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Studien Verlag}%
+      }
+      \strng{namehash}{ffe74391da2aab8beb25f84369456edf}
+      \strng{fullhash}{ffe74391da2aab8beb25f84369456edf}
+      \strng{bibnamehash}{ffe74391da2aab8beb25f84369456edf}
+      \strng{authorbibnamehash}{ffe74391da2aab8beb25f84369456edf}
+      \strng{authornamehash}{ffe74391da2aab8beb25f84369456edf}
+      \strng{authorfullhash}{ffe74391da2aab8beb25f84369456edf}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Was ist normal? Normalität-Behinderung-Geschlecht}
+      \field{year}{1999}
+    \endentry
+    \entry{wang2022intelligent}{article}{}
+      \name{author}{8}{}{%
+        {{hash=fcd6114a30fda9801eef65b9d374f56b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=47ab5b4291802c7fccdc42c32571e551}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8d6ef0a64edba877cbf8682d29db80d2}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b2eccb185095fccfeb40fdffd8b2105f}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d585df312f4f2992ac8e7430068abc94}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Fangyu},
+           giveni={F\bibinitperiod}}}%
+        {{hash=25a7a69a4ee7b710b171c6d176df5bf0}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Bocheng},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f8faae13c3bf91ebbb77c1865513fbcd}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a2f4e695f2df1ec7a7e331af42a1f029}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Bi-Feng},
+           giveni={B\bibinithyphendelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{f94a4355da23aa07bd6eac7dffc0ca80}
+      \strng{fullhash}{c43c31cda04f839d3fa6440277776f0a}
+      \strng{bibnamehash}{f94a4355da23aa07bd6eac7dffc0ca80}
+      \strng{authorbibnamehash}{f94a4355da23aa07bd6eac7dffc0ca80}
+      \strng{authornamehash}{f94a4355da23aa07bd6eac7dffc0ca80}
+      \strng{authorfullhash}{c43c31cda04f839d3fa6440277776f0a}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advanced Materials}
+      \field{number}{52}
+      \field{title}{Intelligent Micro-/Nanorobots for Cancer Theragnostic}
+      \field{volume}{34}
+      \field{year}{2022}
+      \field{pages}{2201051}
+      \range{pages}{1}
+    \endentry
+    \entry{warwick2000cyborg}{article}{}
+      \name{author}{1}{}{%
+        {{hash=30f04cf63faaa91705a4f86600c0d4f6}{%
+           family={Warwick},
+           familyi={W\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Howard S Mittman}%
+      }
+      \strng{namehash}{30f04cf63faaa91705a4f86600c0d4f6}
+      \strng{fullhash}{30f04cf63faaa91705a4f86600c0d4f6}
+      \strng{bibnamehash}{30f04cf63faaa91705a4f86600c0d4f6}
+      \strng{authorbibnamehash}{30f04cf63faaa91705a4f86600c0d4f6}
+      \strng{authornamehash}{30f04cf63faaa91705a4f86600c0d4f6}
+      \strng{authorfullhash}{30f04cf63faaa91705a4f86600c0d4f6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wired}
+      \field{number}{2}
+      \field{title}{Cyborg 1.0}
+      \field{volume}{8}
+      \field{year}{2000}
+    \endentry
+    \entry{zarzycki2020stimulation}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0575393521f56d3dd2b6f3d4ef8995f9}{%
+           family={Zarzycki},
+           familyi={Z\bibinitperiod},
+           given={Marcin\bibnamedelima Zygmunt},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=577b3d22d481b46fbb2326cd1dd419bb}{%
+           family={Domitrz},
+           familyi={D\bibinitperiod},
+           given={Izabela},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{84a6e2477ec37e2d3214f88dc23689f2}
+      \strng{fullhash}{84a6e2477ec37e2d3214f88dc23689f2}
+      \strng{bibnamehash}{84a6e2477ec37e2d3214f88dc23689f2}
+      \strng{authorbibnamehash}{84a6e2477ec37e2d3214f88dc23689f2}
+      \strng{authornamehash}{84a6e2477ec37e2d3214f88dc23689f2}
+      \strng{authorfullhash}{84a6e2477ec37e2d3214f88dc23689f2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Neuropsychiatrica}
+      \field{number}{2}
+      \field{title}{Stimulation-induced side effects after deep brain stimulation--a systematic review}
+      \field{volume}{32}
+      \field{year}{2020}
+      \field{pages}{57\bibrangedash 64}
+      \range{pages}{8}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

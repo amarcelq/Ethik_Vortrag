@@ -1,0 +1,17 @@
+\babel@toc {ngerman}{}\relax 
+\beamer@sectionintoc {1}{Einleitung}{4}{0}{1}
+\beamer@subsectionintoc {1}{1}{Begriffserleuterungen}{5}{0}{1}
+\beamer@subsectionintoc {1}{2}{Was ist normal?}{6}{0}{1}
+\beamer@subsectionintoc {1}{3}{Einige Chancen des Transhumanismus}{9}{0}{1}
+\beamer@sectionintoc {2}{Ethische Fragestellungen des Transhumanismus}{10}{0}{2}
+\beamer@subsectionintoc {2}{1}{Selbstbestimmung des Individuums}{11}{0}{2}
+\beamer@subsectionintoc {2}{8}{Ethishe Forschung und wie es aktuell läuft}{21}{0}{2}
+\beamer@sectionintoc {3}{Ethische Fragestellungen des Transhumanismus}{22}{0}{3}
+\beamer@subsectionintoc {3}{1}{Selbstbestimmung des Individuums}{23}{0}{3}
+\beamer@sectionintoc {4}{Risikoberwertung}{28}{0}{4}
+\beamer@subsectionintoc {4}{1}{Regulierungen}{29}{0}{4}
+\beamer@subsectionintoc {4}{2}{Risiken}{30}{0}{4}
+\beamer@subsubsectionintoc {4}{2}{1}{Individuum}{31}{0}{4}
+\beamer@subsubsectionintoc {4}{2}{2}{Organisationen}{32}{0}{4}
+\beamer@subsubsectionintoc {4}{2}{3}{Gesellschaft}{33}{0}{4}
+\beamer@subsectionintoc {4}{3}{Risikoeinordnung}{34}{0}{4}
