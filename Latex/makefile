@@ -8,6 +8,10 @@ doc:
 
 pres:
 	pdflatex ppp.tex
+	bibtex ppp
+	pdflatex ppp.tex
+	biber ppp
+	pdflatex ppp.tex
 	pdflatex ppp.tex
 
 clean:
