@@ -80,6 +80,9 @@
 \usepackage{breakcites}
 \usepackage{etoolbox}
 
+% tables
+\usepackage{tabularx}
+
 \renewcommand\bibfont{\tiny}
 \addbibresource{ref.bib}
 
@@ -240,6 +243,15 @@ Risiken
 	\begin{itemize}
 		\item{Einteilung in Individuum, Organisationen und Gesellschaft}
 	\end{itemize}
+	\begin{table}[htbp]
+    	\centering
+    	\begin{tabularx}{\textwidth}{| X | X | X |}
+    	%\begin{tabularx}{\textwidth}{bss}
+        	\hline
+        	Alpha     & Beta     & Gamma     \\ \hline
+        	0         & 2        & 4         \\ \hline
+    	\end{tabularx}
+	\end{table}
 \end{frame}
 
 \subsubsection{Individuum}
