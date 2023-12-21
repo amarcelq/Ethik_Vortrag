@@ -2366,11 +2366,11 @@
     <bcf:citekey order="20">brde</bcf:citekey>
     <bcf:citekey order="21">lee2016cochlear</bcf:citekey>
     <bcf:citekey order="22">das2022locked</bcf:citekey>
-    <bcf:citekey order="23">al2021impact</bcf:citekey>
-    <bcf:citekey order="24">logothetis2010effects</bcf:citekey>
-    <bcf:citekey order="25">rowland1996stratospheric</bcf:citekey>
-    <bcf:citekey order="26">zarzycki2020stimulation</bcf:citekey>
-    <bcf:citekey order="27">lampert2014</bcf:citekey>
+    <bcf:citekey order="23">rowland1996stratospheric</bcf:citekey>
+    <bcf:citekey order="24">zarzycki2020stimulation</bcf:citekey>
+    <bcf:citekey order="25">khan_aziz_2019</bcf:citekey>
+    <bcf:citekey order="26">lampert2014</bcf:citekey>
+    <bcf:citekey order="27">khan_aziz_2019</bcf:citekey>
     <bcf:citekey order="28">ai_act_eu_2021</bcf:citekey>
     <bcf:citekey order="29">ai_act_deal_2023</bcf:citekey>
     <bcf:citekey order="30">lee2016cochlear</bcf:citekey>
@@ -2401,15 +2401,13 @@
     <bcf:citekey order="55">das2022locked</bcf:citekey>
     <bcf:citekey order="56">brde</bcf:citekey>
     <bcf:citekey order="57">lee2016cochlear</bcf:citekey>
-    <bcf:citekey order="58">al2021impact</bcf:citekey>
-    <bcf:citekey order="59">logothetis2010effects</bcf:citekey>
-    <bcf:citekey order="60">rowland1996stratospheric</bcf:citekey>
-    <bcf:citekey order="61">zarzycki2020stimulation</bcf:citekey>
-    <bcf:citekey order="62">lampert2014</bcf:citekey>
-    <bcf:citekey order="63">ai_act_eu_2021</bcf:citekey>
-    <bcf:citekey order="64">ai_act_deal_2023</bcf:citekey>
-    <bcf:citekey order="65">khan_aziz_2019</bcf:citekey>
-    <bcf:citekey order="66">Burwell:2017aa</bcf:citekey>
+    <bcf:citekey order="58">rowland1996stratospheric</bcf:citekey>
+    <bcf:citekey order="59">zarzycki2020stimulation</bcf:citekey>
+    <bcf:citekey order="60">khan_aziz_2019</bcf:citekey>
+    <bcf:citekey order="61">lampert2014</bcf:citekey>
+    <bcf:citekey order="62">ai_act_eu_2021</bcf:citekey>
+    <bcf:citekey order="63">ai_act_deal_2023</bcf:citekey>
+    <bcf:citekey order="64">Burwell:2017aa</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
