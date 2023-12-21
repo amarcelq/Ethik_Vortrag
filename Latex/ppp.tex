@@ -79,8 +79,9 @@
 \usepackage{biblatex}
 \usepackage{breakcites}
 \usepackage{etoolbox}
-
+%\usepackage{csquotes}
 % tables
+%\catcode30=12
 \usepackage{tabularx}
 
 \renewcommand\bibfont{\tiny}
@@ -117,10 +118,10 @@
 
 \maketitle
 
-%\begin{frame}
-%	\frametitle{Inhaltsverzeichnis}
-%	\tableofcontents
-%\end{frame}
+\begin{frame}
+	\frametitle{Inhaltsverzeichnis}
+	\tableofcontents
+\end{frame}
 
 \section{Einleitung}
 \subsection{Begriffserleuterungen}
@@ -138,7 +139,7 @@
       \item Mensch ist eine Sackgasse und Cyborg wird als nächster Schritt der Evolution angesehen~\cite{Merzlyakov2022}\\
       => Grundform des Menschen wird abgeschafft
     \end{itemize}
-	\item Cyborg
+    \item Cyborg
     \begin{itemize}
       \item Integriertes System aus menschlichen und maschinellen Teilen~\cite{warwick2000cyborg}
     \end{itemize}
@@ -149,7 +150,7 @@
 \subsection{Was ist normal?}
 \begin{frame}
   \frametitle{Was ist normal?}
-  Dr. Anette Breczko: Die Überwachung biotechnologischer Möglichkeiten erfordert zweifellos eine Unterscheidung zwischen ``therapeutischen'' und ``Verbesserungs''-Aktivitäten~\cite{breczko2021human}
+  Dr. Anette Breczko: Die Überwachung biotechnologischer Möglichkeiten erfordert zweifellos eine Unterscheidung zwischen "therapeutischen'' und "Verbesserungs''-Aktivitäten~\cite{breczko2021human}
   
   \vspace{12pt}
   \textbf{Zentrale Frage hierfür:} Was ist normal? 
@@ -288,7 +289,7 @@
     \end{itemize}
   \end{textblock*}
   \begin{figure}[h]
-    \includegraphics[scale=0.3]{pictures/neuralink.png}
+    \includegraphics[scale=0.3]{./pictures/neuralink.png}
     \caption{Prototyp von Neuralink~\cite{neuralink}}
   \end{figure}
 \end{frame}
@@ -303,7 +304,7 @@
     \item Private Organisationen? Unkontrollierte Ausbreitung möglich
     \item Der Einzelne? Viele haben nicht die finanziellen Mittel
   \end{itemize}
-  \end{frame}
+ \end{frame}
 
 \begin{frame}
   \frametitle{Gesellschaftlichespaltung unausweichlich?}
@@ -314,7 +315,6 @@
     \item Reiche: 80,9 Jahre
     \item Arme: 70,1 Jahre
   \end{itemize}
-  \end{frame}
   \small Gründe für die Unterschiede:
   \begin{itemize}
     \item Bessere ärztliche Versorgung für Reiche
@@ -345,14 +345,11 @@
     \item Starke Regulierungen in vielen Ländern, um die möglichen Testteilnehmer zu schützen.\\
     => Mögliche Verlagerung der Entwicklung in wirtschaftlich schwächere Länder und damit verbundene Ausbeutung der dortigen Bevölkerung.
   \end{itemize}
-\end{frame}
-
   \begin{itemize}
       \item Es besteht eine extreme Neigung zu transhumanistischer Technologie.
       \item Risiken könnten vernachlässigt werden.
   \end{itemize}
 \end{frame}
-=======
 
 \section{Ethische Fragestellungen des Transhumanismus}
 \subsection{Selbstbestimmung des Individuums}
@@ -481,16 +478,7 @@ Risiken - Gesellschaft
 \subsection{Risikoeinordnung}
 
 \newpage
+%\begin{frame}
 \printbibliography % Druckt das Literaturverzeichnis in kleinerer Schriftgröße aus
-
-%=======
-\section{Lorenz}
-\subsection{Gesundheit}
-\begin{frame}
-	\frametitle{Basics}
-	\begin{itemize}
-	\item Test
-	\end{itemize}
-\end{frame}
-%>>>>>>> main
+%\end{frame}
 \end{document}
