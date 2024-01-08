@@ -80,6 +80,8 @@
 \usepackage[backend=bibtex,style=numeric]{biblatex}
 \usepackage{breakcites}
 \usepackage{etoolbox}
+\usepackage{multimedia}
+\usepackage{media9}
 %\usepackage{csquotes}
 % tables
 %\catcode30=12
@@ -104,13 +106,20 @@
 \date{15. Januar 2024}
 
 \begin{document}
-\begin{frame}{YouTube Video Vorschau}
-  \centering
-  \href{https://www.youtube.com/watch?v=PLk8Pm_XBJE&t=612s}{\includegraphics[width=0.8\linewidth]{pictures/Video_Vorschau.png}}
-  \vspace{-0.2cm}
-  \begin{flushleft}
-      \tiny Quelle: \url{https://www.youtube.com/watch?v=PLk8Pm_XBJE}, zuletzt besucht am 12.12.2023
-  \end{flushleft}
+
+\begin{frame}
+  \begin{figure}[h!]
+    \centering   
+    \includemedia[
+      label=show3,
+      width=1.0\textwidth,
+      poster,
+      autostart,
+      showcontrols,
+      loop
+    ]
+    {\includegraphics[width=1.0\textwidth]{pictures/Video_Vorschau.png}}{pictures/Intro.mp4}
+  \end{figure}
 \end{frame}
 
 \title{Transhumanismus}
