@@ -89,11 +89,10 @@
 
 \patchcmd{\thebibliography}{\footnotesize}{\tiny}{}{}
 \newcommand{\tabitem}{~~\llap{\textbullet}~~}
-
 % this adds the content table for each section
 \AtBeginSection[]
 {
-  \begin{frame}
+  \begin{frame}[allowframebreaks]
     \frametitle{Inhalt}
     \tableofcontents[currentsection]
   \end{frame}
@@ -118,7 +117,7 @@
 
 \maketitle
 
-\begin{frame}
+\begin{frame}[allowframebreaks]
 	\frametitle{Inhaltsverzeichnis}
 	\tableofcontents
 \end{frame}
@@ -206,7 +205,7 @@
   \end{itemize}
 \end{frame}
 
-\subsection*{Entscheidungen treffen für andere}
+\subsection{Entscheidungen treffen für andere}
 \begin{frame}
   \frametitle{Entscheidungen treffen für andere}
   \textbf{Entscheidungen treffen für andere:}
@@ -220,7 +219,7 @@
   \end{itemize}
 \end{frame}
 
-\subsection*{Fallbeispiel: Entscheidungen für ein Kind}
+\subsection{Fallbeispiel: Entscheidungen für ein Kind}
 \begin{frame}
   \frametitle{Fallbeispiel: Entscheidungen für ein Kind}
   \textbf{Fallbeispiel: Entscheidungen für andere treffen}
@@ -236,7 +235,7 @@
   \end{itemize}
 \end{frame}
 
-\subsection*{Autonomie einer Gruppe}
+\subsection{Autonomie einer Gruppe}
 \begin{frame}
   \frametitle{Autonomie einer Gruppe}
   \textbf{Autonomie einer Gruppe:}
@@ -247,7 +246,7 @@
   \end{itemize}
 \end{frame}
 
-\subsection*{Unabschätzbare Folgen}
+\subsection{Unabschätzbare Folgen}
 \begin{frame}
   \frametitle{Unabschätzbare Folgen}
   \textbf{Unabschätzbare Folgen:}\\
@@ -255,8 +254,10 @@
   Beispiele beim Transhumanismus:
   \begin{itemize}
     \item DNA-Veränderungen
-    
-    %Unvorhersehbare Folgen im eigenen Körper, insbesondere bei DNA-Veränderungen, könnten fatale und irreversible Auswirkungen haben. Obwohl die DNA-Forschung fortgeschritten ist, bleiben viele ungeklärte Fragen, was zu potenziell fatalen Fehlern führen könnte.
+    \begin{itemize}
+      \item Unvorhersehbare Folgen bei DNA-Veränderungen\\
+      => fatale und irreversible Auswirkungen auf den Körper
+    \end{itemize}
     \item DBS
     \begin{itemize}
       \item Komplexität und mangelndes Wissen des Gehirns führt zu unerwünschten Nebenwirkungen, wie Depressionen oder Suizid~\cite{zarzycki2020stimulation}.
@@ -265,7 +266,7 @@
   \end{itemize}
 \end{frame}
 
-\subsection*{Gesundheit und darüber hinaus}
+\subsection{Gesundheit und darüber hinaus}
 \begin{frame}
   \frametitle{Gesundheit und darüber hinaus}
   \textbf{Gesundheit und darüber hinaus:}\\
@@ -297,7 +298,7 @@
   \end{flushleft}
 \end{frame}
 
-\subsection*{Gesellschaftliche Spaltung unausweichlich?}
+\subsection{Gesellschaftliche Spaltung unausweichlich?}
 \begin{frame}
   \frametitle{Gesellschaftliche Spaltung unausweichlich?}
   \small \textbf{Gesellschaftlichespaltung unausweichlich?}\\
@@ -326,6 +327,7 @@
   \end{itemize}
 \end{frame}
 
+\subsection{Zukunft der Gesundheitsversorgung}
 \begin{frame}
   \frametitle{Zukunft der Gesundheitsversorgung}
   \small \textbf{Zukunft der Gesundheitsversorgung}\\
@@ -338,9 +340,10 @@
   \end{itemize}
 \end{frame}
 
-\subsection{Ethishe Forschung und wie es aktuell läuft}
+\subsection{Ethische Forschung und wie es aktuell läuft}
 \begin{frame}
-  \textbf{Ethishe Forschung und wie es aktuell läuft:}
+  \frametitle{Ethische Forschung und wie es aktuell läuft}
+  \textbf{Ethische Forschung und wie es aktuell läuft:}
   Entwicklung transhumanistischer Technologie
   \begin{itemize}
     \item Die Entwicklung transhumanistischer Technologie ist vergleichbar mit der Entwicklung von Impfstoffen oder Medikamenten – teuer und langwierig.
@@ -348,73 +351,12 @@
     \item Starke Regulierungen in vielen Ländern, um die möglichen Testteilnehmer zu schützen.\\
     => Mögliche Verlagerung der Entwicklung in wirtschaftlich schwächere Länder und damit verbundene Ausbeutung der dortigen Bevölkerung.
   \end{itemize}
+\end{frame}
+
+\begin{frame}
   \begin{itemize}
       \item Es besteht eine extreme Neigung zu transhumanistischer Technologie.
       \item Risiken könnten vernachlässigt werden.
-  \end{itemize}
-\end{frame}
-
-\section{Ethische Fragestellungen des Transhumanismus}
-\subsection{Selbstbestimmung des Individuums}
-\begin{frame}
-  \frametitle{Selbstbestimmung des Individuums}
-  \begin{itemize}
-    \item \textbf{Recht auf freie Entfaltung:} Jeder hat das Recht auf freie Entfaltung, solange die Rechte anderer oder bestehendes Recht nicht verletzt werden\cite{fur1996grundgesetz}.
-    \begin{itemize}
-      \item \textit{Individuelle Identität:} Menschen können ihre eigene Identität frei wählen.
-      \item \textit{Natürlichkeit bewahren:} Der Wunsch, in seiner natürlichen Form zu bleiben, ist ein essentieller Aspekt.
-    \end{itemize}
-    \item \textbf{Freie Entscheidung in einer Welt der Verbesserung:} In einer Gesellschaft, in der die Mehrheit von Enhancements profitiert, könnten jene, die sich dagegen entscheiden, im Alltagsleben benachteiligt sein (z.B., Profi Bodybuilding und der Einsatz von Steroiden).
-  \end{itemize}
-\end{frame}
-
-
-\subsection*{Entscheidungen Treffen für Andere}
-\begin{frame}
-  \frametitle{Entscheidungen Treffen für Andere}
-  \begin{itemize}
-    \item Schwierigkeit der Entscheidungsfindung für andere in Bezug auf Verbesserungen\cite{plavsienkova2021healthy}.
-    \item Individuelle Abwägung von Nebenwirkungen: Jeder muss für sich selbst entscheiden, ob er die möglichen Nebenwirkungen in Kauf nehmen möchte.
-    \item Gesellschaftliche Verantwortung: Die Gesellschaft könnte die Konsequenzen tragen, wenn Menschen sich gegen Verbesserungen entscheiden, z.B., höhere Gesundheitskosten und zusätzliche Kosten für die Integration ins tägliche Leben. Dies könnte zu einer Pflicht zur Verbesserung führen.
-    \item Herausforderung bei nicht selbstbestimmter Entscheidung: Besonders kritisch wird es bei Menschen, die nicht selbstbestimmt entscheiden können. Beispiel: Locked-in-Syndrom, bei dem die Betroffenen denken und fühlen können, aber nicht sprechen oder sich bewegen können\cite{das2022locked}.
-    \item Einschränkungen durch Entscheidungen für Andere: Entscheidungen gegen Verbesserungen könnten zu späteren Einschränkungen in der Teilhabe am Gemeinschaftsleben führen.
-  \end{itemize}
-\end{frame}
-
-\subsection*{Fallbeispiel: Entscheidung für ein Kind}
-\begin{frame}
-  \frametitle{Fallbeispiel: Entscheidung für ein Kind}
-  \begin{itemize}
-    \item Gerichtsverhandlung wegen Entscheidung gegen ein Cochlea-Implantat bei gehörlosen Eltern\cite{brde}.
-    \item Die Klinik sah die Ablehnung als Gefährdung des Kindeswohls und leitete ein Kinderschutzverfahren ein.
-    \item Familiengerichtsentscheidung am 29. Januar 2019:
-    \begin{itemize}
-      \item Keine familienrechtlichen Maßnahmen aufgrund unzureichender Gründe.
-      \item Eltern können den optimalen Therapieverlauf nach der Implantation nicht gewährleisten.
-      \item Ohne Akzeptanz der Eltern ist es unmöglich, dass das Kind trotz Cochlea-Implantat die Hör- und Sprachfähigkeit erlangt.~\cite{brde}
-    \end{itemize}
-  \end{itemize}
-\end{frame}
-
-
-\subsection*{Autonomie einer Gruppe}
-\begin{frame}
-  \frametitle{Autonomie einer Gruppe}
-  \begin{itemize}
-    \item Möglichkeit zur ``Normalität'' für Minderheiten: Die Gefahr besteht, dass die Anliegen derjenigen, die sich gegen Normalisierung entscheiden, weniger Beachtung finden, da sie nicht mehr als Teil einer diskriminierten Gruppe betrachtet werden (Argument der leichteren Lösung).
-    \item Erhaltung kultureller Dynamik: Minderheiten und Gruppen haben ihre eigene kulturelle Dynamik, die durch Normalisierung verloren gehen könnte. Beispiel: Gehörlosen-Community, die eine einzigartige Kommunikationsform pflegt und geschätzt werden sollte\cite{lee2016cochlear}.
-    \item Gewinn an Autonomie für Betroffene Gruppen: Durch Technologie könnten betroffene Gruppen wieder selbstbestimmter leben\cite{das2022locked}.
-  \end{itemize}
-\end{frame}
-
-\subsection*{Unabschätzbare Folgen}
-\begin{frame}
-  \frametitle{Unabschätzbare Folgen}
-  \begin{itemize}
-    \item \textbf{Beispiel aus der Vergangenheit:} FCKW als Kältemittel und Treibmittel in Spraydosen führten zur Entstehung des Ozonlochs\cite{rowland1996stratospheric}.
-    \item \textbf{Transhumanismus und Posthumanismus:} Unvorhersehbare Folgen im eigenen Körper, insbesondere bei DNA-Veränderungen, könnten fatale und irreversible Auswirkungen haben. Obwohl die DNA-Forschung fortgeschritten ist, bleiben viele ungeklärte Fragen, was zu potenziell fatalen Fehlern führen könnte.
-    \item \textbf{Beispiel: Deep Brain Stimulation (DBS):} Elektroden im Gehirn, die elektrische Impulse abgeben, können therapeutische Effekte haben. Komplexität des Gehirns führt zu unerwünschten Nebenwirkungen wie Depressionen oder Suizid bei Empfängern von DBS\cite{zarzycki2020stimulation}.
-    \item \textbf{Herausforderungen bei DBS:} Elektroden stimulieren großflächig, was zu ungewollten Stimulationen benachbarter Gehirnareale führen kann. Kleine Änderungen in Intensität oder Zeitverzögerung können unvorhersehbare Auswirkungen haben\cite{al2021impact}. Tierversuche mit Affen zeigten, dass Änderungen in Frequenz und Platz der Stimulation zu gegenteiligen Effekten führen\cite{logothetis2010effects}.
   \end{itemize}
 \end{frame}
 
