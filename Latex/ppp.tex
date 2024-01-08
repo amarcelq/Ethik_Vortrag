@@ -88,6 +88,7 @@
 \addbibresource{ref.bib}
 
 \patchcmd{\thebibliography}{\footnotesize}{\tiny}{}{}
+\newcommand{\tabitem}{~~\llap{\textbullet}~~}
 
 % this adds the content table for each section
 \AtBeginSection[]
@@ -431,20 +432,27 @@
 \subsection{Risiken}
 \begin{frame}{Risiken}
 Risiken
-	\begin{itemize}
-		\item{Einteilung in Individuum, Organisationen und Gesellschaft}
-	\end{itemize}
-
-	\begin{table}[]
-\begin{tabular}{lll}
-\hline
-\multicolumn{1}{|l|}{Individuum}                                         & \multicolumn{1}{l|}{Organisationen}                                           & \multicolumn{1}{l|}{Gesellschaft}                                         \\ \hline
-\multicolumn{1}{|l|}{Folgen von Hackerangriffen$~\cite{khan_aziz_2019}$} & \multicolumn{1}{l|}{Kapitalgetriebene Entscheidungen$~\cite{khan_aziz_2019}$} & \multicolumn{1}{l|}{Unfairen Vorteil verschaffen$~\cite{khan_aziz_2019}$} \\ \hline
-Eigengefährdung von Nutzenden$~\cite{khan_aziz_2019}$                    & Neuro-Marketing$~\cite{khan_aziz_2019}$                                       & Militante Interessen$~\cite{khan_aziz_2019}$                              \\
-Gefahren bei Operationen$~\cite{Burwell:2017aa}$                         & Monopolbildung$~\cite{khan_aziz_2019}$                                        & Verlust Autonomie und Menschlichkeit$~\cite{Burwell:2017aa}$              \\
-Unbekannte Langezeitfolgen$~\cite{Burwell:2017aa}$                       &                                                                               &                                                                          
-\end{tabular}
-\end{table}\end{frame}
+	\begin{table}
+	\centering
+     	\setlength{\leftmargini}{0.4cm}
+   	\begin{tabular}{| m{2cm} | m{4cm} | m{4cm} | m{4cm} |}
+		\hline
+		\footnotesize{Individuum} & \footnotesize{Organisationen} & \footnotesize{Gesellschaft} \\ 
+		\hline
+		\begin{itemize}
+		\item \scriptsize{Folgen von Hackerangriffen~\cite{khan_aziz_2019}} 
+		\item \scriptsize{ Eigengefährdung von Nutzenden~\cite{khan_aziz_2019}}
+		\item \scriptsize{ Unbekannte Langezeitfolgen~\cite{Burwell:2017aa}}
+		\end{itemize}
+%		& 
+%		
+%		\scriptsize{Kapitalgetriebene Entscheidungen~\cite{khan_aziz_2019}} & \scriptsize{Unfairen Vorteil verschaffen~\cite{khan_aziz_2019} }\\ 
+%		& \scriptsize{ Neuro-Marketing~\cite{khan_aziz_2019}}& \scriptsize{ Militante Interessen~\cite{khan_aziz_2019}}\\
+%		\scriptsize{ Gefahren bei Operationen~\cite{Burwell:2017aa}}& \scriptsize{ Monopolbildung~\cite{khan_aziz_2019}}& \scriptsize{ Verlust Autonomie und Menschlichkeit~\cite{Burwell:2017aa}}\\
+%		&&
+	\end{tabular}
+	\end{table}
+\end{frame}
 
 \subsection{Risikoeinordnung}
 
