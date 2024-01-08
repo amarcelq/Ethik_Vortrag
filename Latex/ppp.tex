@@ -61,6 +61,7 @@
 % blackFont: Nur schwarze Schriftfarbe verwenden (ansonsten: Fakultätsfarben)
 
 % frametitleCenter: Titel in der Kopfzeile zentrieren (ansonsten: rechtsbündig)
+\usepackage{csquotes}
 
 \usetheme[department=FakIM,pageNumbers]{OTHR}
 
@@ -88,7 +89,6 @@
 \addbibresource{ref.bib}
 
 \patchcmd{\thebibliography}{\footnotesize}{\tiny}{}{}
-\newcommand{\tabitem}{~~\llap{\textbullet}~~}
 
 % this adds the content table for each section
 \AtBeginSection[]
@@ -429,34 +429,226 @@
     \end{itemize}
 \end{frame}
 
-\subsection{Risiken}
-\begin{frame}{Risiken}
-Risiken
-	\begin{table}
-	\centering
-     	\setlength{\leftmargini}{0.4cm}
-   	\begin{tabular}{| m{2cm} | m{4cm} | m{4cm} | m{4cm} |}
-		\hline
-		\footnotesize{Individuum} & \footnotesize{Organisationen} & \footnotesize{Gesellschaft} \\ 
-		\hline
-		\begin{itemize}
-		\item \scriptsize{Folgen von Hackerangriffen~\cite{khan_aziz_2019}} 
-		\item \scriptsize{ Eigengefährdung von Nutzenden~\cite{khan_aziz_2019}}
-		\item \scriptsize{ Unbekannte Langezeitfolgen~\cite{Burwell:2017aa}}
-		\end{itemize}
-%		& 
-%		
-%		\scriptsize{Kapitalgetriebene Entscheidungen~\cite{khan_aziz_2019}} & \scriptsize{Unfairen Vorteil verschaffen~\cite{khan_aziz_2019} }\\ 
-%		& \scriptsize{ Neuro-Marketing~\cite{khan_aziz_2019}}& \scriptsize{ Militante Interessen~\cite{khan_aziz_2019}}\\
-%		\scriptsize{ Gefahren bei Operationen~\cite{Burwell:2017aa}}& \scriptsize{ Monopolbildung~\cite{khan_aziz_2019}}& \scriptsize{ Verlust Autonomie und Menschlichkeit~\cite{Burwell:2017aa}}\\
-%		&&
-	\end{tabular}
-	\end{table}
+%\subsection{Risiken}
+%\begin{frame}{Risiken}
+%Risiken
+%	\begin{itemize}
+%		\item{Einteilung in Individuum, Organisationen und Gesellschaft}
+%	\end{itemize}
+%
+%	\begin{table}[]
+%\begin{tabular}{lll}
+%\hline
+%\multicolumn{1}{|l|}{Individuum}                                         & \multicolumn{1}{l|}{Organisationen}                                           & \multicolumn{1}{l|}{Gesellschaft}                                         \\ \hline
+%\multicolumn{1}{|l|}{Folgen von Hackerangriffen$~\cite{khan_aziz_2019}$} & \multicolumn{1}{l|}{Kapitalgetriebene Entscheidungen$~\cite{khan_aziz_2019}$} & \multicolumn{1}{l|}{Unfairen Vorteil verschaffen$~\cite{khan_aziz_2019}$} \\ \hline
+%Eigengefährdung von Nutzenden$~\cite{khan_aziz_2019}$                    & Neuro-Marketing$~\cite{khan_aziz_2019}$                                       & Militante Interessen$~\cite{khan_aziz_2019}$                              \\
+%Gefahren bei Operationen$~\cite{Burwell:2017aa}$                         & Monopolbildung$~\cite{khan_aziz_2019}$                                        & Verlust Autonomie und Menschlichkeit$~\cite{Burwell:2017aa}$              \\
+%Unbekannte Langezeitfolgen$~\cite{Burwell:2017aa}$                       &                                                                               &                                                                          
+%\end{tabular}
+%\end{table}
+%\end{frame}
+
+%%%THOMAS
+
+\section{EU-Riskoklassen}
+\subsection{AI-Act}
+\begin{frame}{AI-Act}
+    \begin{center}
+               \raisebox{8cm}{\includegraphics[scale=0.5]{Pyramide.png}} 
+    \end{center}
+  \end{frame}
+
+
+%% Darstellen der EU-Risikoklassen
+
+\subsection{Erläuterung der Risikoklassen}
+    \begin{frame} %{Erläuterung der Risikoklassen}
+    \begin{center}
+
+\begin{tabular}{|p{6.5cm}|@{}p{1cm}@{}|p{6.5cm}|}
+    \hline
+    \small
+    \cellcolor{red!25}\textbf{Hochrisiko-Anwendungen} & \textbf{} & \cellcolor{red!50}\textbf{Unannehmbares Risiko} \\
+    \hline
+            \small
+            \begin{itemize}
+                \item Beeinflussen die Gesundheit, Sicherheit oder Lebenswege 
+                \item Beispiele: KI in Stromkraftwerken, Kredit- und Jobentscheidungen (Art. 6)
+                \item Unterscheidung: KI-Systeme für bereits geprüfte Produkte und andere Anwendungen (Art. 6 und Anhang III)
+            \end{itemize}
+            & & 
+
+            \small
+            \begin{itemize}
+                \item Verboten: Systeme mit nicht akzeptablem Risiko 
+                \item Beispiele: Verbot von staatlichen Social Scoring und schädlichen Manipulationssystemen (Art. 5) 
+                \item Verbot für schädliche Systeme: Systeme, die darauf abzielen, Personen zu manipulieren oder deren Entscheidungsfindung zu beeinflussen (Art. 5)
+            \end{itemize} \\
+        \hline
+    \end{tabular}
+
+    \end{center}
 \end{frame}
 
-\subsection{Risikoeinordnung}
+%%Darstellung Ungleichheit im Zugang zu technologischen Innovationen
 
-\newpage
+\subsection{Ungleichheit im Zugang zu technologischen Innovationen}
+\begin{frame} %{Ungleichheit im Zugang zu technologischen Innovationen}
+    \centering
+    
+    \includegraphics[width=0.2\textwidth]{Fair.png}
+    \hspace{1.0cm}
+    \includegraphics[width=0.2\textwidth]{+.png}
+    \hspace{1.0cm}
+    \includegraphics[width=0.2\textwidth]{money.png}
+    
+    \vspace{0.2cm}
+    
+    \begin{minipage}[t]{0.2\textwidth}
+      \centering
+      \small moralische Gründe
+    \end{minipage}
+     \hspace{1.0cm}
+    \begin{minipage}[t]{0.2\textwidth}
+    \centering
+    \small gesundheitliche Gründe
+    \end{minipage}
+    \hspace{1,0cm}
+    \begin{minipage}[t]{0.2\textwidth}
+    \centering
+    \small finanzielle Gründe
+    \end{minipage}
+\end{frame}
+
+
+%% Risiken in verschiedenn Ebenen
+%% Risiken für Individuen
+\subsection{Risiken für Individuen}
+\begin{frame} %{Risiken für Individuen}
+\centering
+\renewcommand{\arraystretch}{1.5} % Erhöht den Zeilenabstand
+\begin{tabular}{|p{12cm}|}
+    \hline
+    \rowcolor{blue!25}
+    \textbf{Individuum} \\
+    \hline
+    \begin{itemize}
+        \item Sicherheit der technischen Erweiterung (Hacking)
+        \item Nutzer als Gefahr (Veränderung der Geräteeinstellung)
+    \end{itemize} \\
+    \hline
+\end{tabular}
+\end{frame}
+
+
+%% Risiken für Organisationen
+\subsection{Risiken für Organisationen}
+
+\begin{frame} %{Risiken für Organisationen}
+\centering
+\renewcommand{\arraystretch}{1.5} % Erhöht den Zeilenabstand
+\begin{tabular}{|p{12cm}|}
+    \hline
+    \rowcolor{blue!25}
+    \textbf{Organisationen} \\
+    \hline
+    \begin{itemize}
+        \item Abwägung des Risikos geprägt durch den // kapitalistischen Gedanken[24]
+        \item Risiko durch Datenverkauf für "Neuro-Marketing" [24]
+        \item Monopolbildung durch ungeregelten Vertrieb
+    \end{itemize} \\
+    \hline
+\end{tabular}
+
+\end{frame}
+
+%% Riken für die Gesellschaft
+\subsection{Risiken für die Gesellschaft}
+\begin{frame} %{Risiken für die Gesellschaft}
+\centering
+\renewcommand{\arraystretch}{1.5} % Erhöht den Zeilenabstand
+\begin{tabular}{|p{12cm}|}
+    \hline
+    \rowcolor{blue!25}
+    \textbf{Gesellschaft} \\
+    \hline
+    \begin{itemize}
+        \item Vorteilsbeschaffung bei Test oder im Sport[24]
+        \item Militärischer Einsatz der Technik
+        \item Verlust der Autonomie[24]
+    \end{itemize} \\
+    \hline
+\end{tabular}
+
+\end{frame}
+
+
+
+%% Medizinische Vorteile in der Gegenwart
+
+\subsection{Medizinische Vorteile in der Gegenwart}
+\begin{frame} %{Medizinische Vorteile in der Gegenwart}
+Verbesserung physischer und psychischer Leistungsfähigkeit\newline Heilen von:
+	\begin{itemize}
+		\item{Gehörlos}
+		\item{Parkinson Erkrankten}
+		\item{Tremor}
+            \item{Chochlea-Implantatn}
+            \item{Locked-in-Syndrom}
+        \end{itemize}
+\end{frame}
+
+
+%% Medizinische Vorteile in der Zukungt
+
+\subsection{Medizinische Vorteile in der Zukunft}
+\begin{frame} %{Medizinische Vorteile in der Zukunft}
+Heilen von Krankheiten (Transhumanismus)
+	\begin{itemize}
+		\item{psychisches Leiden}
+		\item{Angststörung}
+		\item{Depressionen}
+            \item{Posttraumatische Belastungsstörungen}
+            \item{Verbesserung der Leistungsfähigkeit}
+        \end{itemize}
+\end{frame}
+
+
+
+
+
+% Zusammenfassung Vorteile und Nachteile
+
+\subsection{Ist Transhumanismus Fortschritt oder Dystrophie?}
+  \begin{frame} %{Ist Transhumanismus Fortschritt oder Dystrophie?}
+    \begin{center}
+    
+
+
+\begin{tabular}{|p{6.5cm}|@{}p{1cm}@{}|p{6.5cm}|}
+    \hline
+    \cellcolor{green!40}\textbf{Vorteile} & \textbf{} & \cellcolor{red!50}\textbf{Nachteile} \\
+            \small
+            \begin{itemize}
+                \item Erweterung der menschlichen Fähigkeiten
+                \item Lösung von Gesundheitsproblemen
+                \item Verbesserung der Lebensqualität
+                \item Mögliche Evolution der Gesellschaft
+            \end{itemize}
+            & & 
+            \begin{itemize}
+                \item Unvorhersehbare Folgen
+                \item Teilhabe, z.B. Arbeitsplatzverlust
+                \item Ungleichheit
+                \item Verlust der Menschlichkeit
+                \item Datenschutz und Privatsphäre
+            \end{itemize} \\
+        \hline
+    \end{tabular}
+
+    \end{center}
+\end{frame}
+
 %\begin{frame}
 \printbibliography % Druckt das Literaturverzeichnis in kleinerer Schriftgröße aus
 %\end{frame}
