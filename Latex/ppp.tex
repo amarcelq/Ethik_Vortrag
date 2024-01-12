@@ -86,7 +86,7 @@
 % tables
 %\catcode30=12
 \usepackage{tabularx}
-
+\usepackage{dblfloatfix}
 \renewcommand\bibfont{\tiny}
 \addbibresource{ref.bib}
 %\bibliographystyle{IEEEtran}
@@ -297,13 +297,15 @@
         \item Irreversibilität vermeidet möglicherweise künftige Eingriffe
     \end{itemize}
   \end{textblock*}
-  \begin{picture}(0,0)
-    \put(100,-180){\includegraphics[scale=0.15]{./pictures/neuralink.png}}
-  \end{picture}
-  \vspace{6.2cm}
-  \begin{flushleft}
-      \tiny Quelle: \url{https://spectrum.ieee.org/elon-musk-brain-neuralink}, zuletzt besucht am 21.12.2023
-  \end{flushleft}
+  \begin{figure}[h]
+    \centering   
+	\includegraphics[scale=0.15]{./pictures/neuralink.png}
+    \caption{
+      The Neuralink transmitter~\cite{Strickland:2021aa}.
+    }
+    %\label{fig:basics AFM sketch}
+  \end{figure}
+  \vspace{-4.2cm}
 \end{frame}
 
 \subsection{Gesellschaftliche Spaltung unausweichlich?}
