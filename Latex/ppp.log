@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.12.12)  12 JAN 2024 09:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.12.12)  12 JAN 2024 09:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1132,4 +1132,1017 @@ Dictionary: translator-basic-dictionary, Language: English
 Dictionary: translator-bibliography-dictionary, Language: English 
 ) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict
 Dictionary: translator-environment-dictionary, Language: English 
-) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-months-dictionary-Eng
+) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Package biblatex Info: Trying to load language 'ngerman'...
+Package biblatex Info: ... file 'ngerman.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
+File: ngerman.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout5 = `ppp-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'ppp.bbl' found.
+ (./ppp.bbl
+LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/n' will be
+(Font)              scaled to size 7.28003pt on input line 48.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'ai_act_deal_2023':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Burwell:2017aa':
+(biblatex)                - Invalid format of field 'date' 
+(biblatex)                - Invalid format of field 'date'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'ai_act_eu_2021':
+(biblatex)                - Invalid format of field 'month'.
+
+)
+Package biblatex Info: Reference section=0 on input line 108.
+Package biblatex Info: Reference segment=0 on input line 108.
+ (./ppp.nav)
+LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/n' will be
+(Font)              scaled to size 7.00702pt on input line 108.
+
+Overfull \hbox (0.49431pt too wide) in paragraph at lines 108--108
+[]  
+ []
+
+<OTHR_OTHR_Logo.pdf, id=15, 1092.08pt x 189.70876pt>
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 108.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/n' will be
+(Font)              scaled to size 10.01004pt on input line 108.
+<pictures/Video_Vorschau.png, id=16, 1156.32pt x 600.2425pt>
+File: pictures/Video_Vorschau.png Graphic file (type png)
+<use pictures/Video_Vorschau.png>
+Package pdftex.def Info: pictures/Video_Vorschau.png  used on input line 115.
+(pdftex.def)             Requested size: 318.67209pt x 165.41982pt.
+LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/n' will be
+(Font)              scaled to size 3.64001pt on input line 115.
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 115.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pictures/Video_Vorschau.png> </home/marcel/texmf/tex/latex/oth/logos/OTHR_OTHR_Logo.pdf>]
+<pictures/AMI_Klettern.png, id=31, 979.66pt x 551.05875pt>
+File: pictures/AMI_Klettern.png Graphic file (type png)
+<use pictures/AMI_Klettern.png>
+Package pdftex.def Info: pictures/AMI_Klettern.png  used on input line 122.
+(pdftex.def)             Requested size: 318.67209pt x 179.25172pt.
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 122.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[2
+
+ <./pictures/AMI_Klettern.png>]
+
+Package hyperref Warning: Option `pdfauthor' has already been used,
+(hyperref)                setting the option has no effect on input line 126.
+
+LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/n' will be
+(Font)              scaled to size 20.9665pt on input line 129.
+LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/n' will be
+(Font)              scaled to size 9.70677pt on input line 129.
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 129.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[3
+
+]
+No file ppp.toc.
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 134.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[4
+
+]
+No file ppp.toc.
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 136.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/n' will be
+(Font)              scaled to size 8.19003pt on input line 136.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[5
+
+]
+LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/n' will be
+(Font)              scaled to size 12.13353pt on input line 158.
+LaTeX Font Info:    Calculating math sizes for size <13.3335> on input line 158.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13.3335> not available
+(Font)              size <14.4> substituted on input line 158.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13.3335> not available
+(Font)              size <14.4> substituted on input line 158.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13.3335> not available
+(Font)              size <14.4> substituted on input line 158.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 158.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 158.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Calculating math sizes for size <10.66675> on input line 158.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <7.46669> not available
+(Font)              size <7> substituted on input line 158.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <7.46669> not available
+(Font)              size <7> substituted on input line 158.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <7.46669> not available
+(Font)              size <7> substituted on input line 158.
+
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 158.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[6
+
+]
+LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/b/n' will be
+(Font)              scaled to size 14.56006pt on input line 167.
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 167.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[7
+
+]
+LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/n' will be
+(Font)              scaled to size 13.28613pt on input line 180.
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 180.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[8
+
+]
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 190.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[9
+
+]
+LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/b/n' will be
+(Font)              scaled to size 13.28613pt on input line 202.
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 202.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[10
+
+]
+No file ppp.toc.
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 204.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[11
+
+]
+LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/b/n' will be
+(Font)              scaled to size 12.13353pt on input line 217.
+LaTeX Font Info:    Font shape `T1/DejaVuSans-TLF/m/it' will be
+(Font)              scaled to size 9.70677pt on input line 217.
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 217.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[12
+
+]
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 231.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[13
+
+]
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 247.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[14
+
+]
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 258.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[15
+
+]
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 278.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[16
+
+]
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 292.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[17
+
+]
+<./pictures/neuralink.png, id=217, 1204.5pt x 724.7075pt>
+File: ./pictures/neuralink.png Graphic file (type png)
+<use ./pictures/neuralink.png>
+Package pdftex.def Info: ./pictures/neuralink.png  used on input line 310.
+(pdftex.def)             Requested size: 180.6672pt x 108.70143pt.
+LaTeX Font Info:    Trying to load font information for T1+DejaVuSansMono-TLF on input line 310.
+ (/usr/share/texlive/texmf-dist/tex/latex/dejavu/T1DejaVuSansMono-TLF.fd
+File: T1DejaVuSansMono-TLF.fd 2011/06/01 Font definitions for T1/DejaVuSansMono-TLF.
+)
+LaTeX Font Info:    Font shape `T1/DejaVuSansMono-TLF/m/n' will be
+(Font)              scaled to size 7.28003pt on input line 310.
+
+Overfull \vbox (5.2038pt too high) detected at line 310
+ []
+
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 310.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[18
+
+ <./pictures/neuralink.png>]
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 322.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[19
+
+]
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 339.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[20
+
+]
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 352.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[21
+
+]
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 365.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[22
+
+]
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 372.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[23
+
+]
+No file ppp.toc.
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 374.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[24
+
+]
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 383.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[25
+
+]
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 416.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 416.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16> not available
+(Font)              size <17.28> substituted on input line 416.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 416.
+
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 416.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[26
+
+]
+No file ppp.toc.
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 419.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[27
+
+]
+<./pictures/Pyramide.png, id=331, 753.89021pt x 523.9575pt>
+File: ./pictures/Pyramide.png Graphic file (type png)
+<use ./pictures/Pyramide.png>
+Package pdftex.def Info: ./pictures/Pyramide.png  used on input line 425.
+(pdftex.def)             Requested size: 376.94418pt x 261.9781pt.
+
+Overfull \vbox (292.878pt too high) detected at line 425
+ []
+
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 425.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[28
+
+ <./pictures/Pyramide.png (PNG copy)>]
+/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/ppp.tex:457: Undefined control sequence.
+\beamer@doifinframe ...} \hline \small \cellcolor 
+                                                  {red!25}\textbf {Hochrisik...
+l.457 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--457
+[]|\T1/DejaVuSans-TLF/m/n/14.6001 red!25\T1/DejaVuSans-TLF/b/n/14.6001 Hochrisiko-
+ []
+
+/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/ppp.tex:457: Undefined control sequence.
+\beamer@doifinframe ... & \textbf {} & \cellcolor 
+                                                  {red!50}\textbf {Unannehmb...
+l.457 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--457
+[]|\T1/DejaVuSans-TLF/m/n/16 red!50\T1/DejaVuSans-TLF/b/n/16 Unannehmbares
+ []
+
+
+Overfull \hbox (25.59993pt too wide) in paragraph at lines 457--457
+ [] 
+ []
+
+
+Overfull \vbox (114.27434pt too high) detected at line 457
+ []
+
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 457.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[29
+
+]
+<./pictures/Fair.png, id=350, 221.32687pt x 221.32687pt>
+File: ./pictures/Fair.png Graphic file (type png)
+<use ./pictures/Fair.png>
+Package pdftex.def Info: ./pictures/Fair.png  used on input line 487.
+(pdftex.def)             Requested size: 79.66649pt x 79.66747pt.
+<./pictures/+.png, id=351, 221.32687pt x 221.32687pt>
+File: ./pictures/+.png Graphic file (type png)
+<use ./pictures/+.png>
+Package pdftex.def Info: ./pictures/+.png  used on input line 487.
+(pdftex.def)             Requested size: 79.66649pt x 79.66747pt.
+<./pictures/money.png, id=352, 223.58531pt x 223.58531pt>
+File: ./pictures/money.png Graphic file (type png)
+<use ./pictures/money.png>
+Package pdftex.def Info: ./pictures/money.png  used on input line 487.
+(pdftex.def)             Requested size: 79.66649pt x 79.66844pt.
+
+Overfull \hbox (25.91423pt too wide) in paragraph at lines 487--487
+ []\T1/DejaVuSans-TLF/m/n/14.6001 gesundheitliche 
+ []
+
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 487.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[30
+
+ <./pictures/Fair.png> <./pictures/+.png> <./pictures/money.png>]
+/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/ppp.tex:507: Undefined control sequence.
+<recently read> \rowcolor 
+                          
+l.507 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 507.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[31
+
+]
+/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/ppp.tex:529: Undefined control sequence.
+<recently read> \rowcolor 
+                          
+l.529 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 529.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[32
+
+]
+/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/ppp.tex:549: Undefined control sequence.
+<recently read> \rowcolor 
+                          
+l.549 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 549.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[33
+
+]
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 565.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[34
+
+]
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 580.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[35
+
+]
+/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/ppp.tex:616: Undefined control sequence.
+<recently read> \cellcolor 
+                           
+l.616 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/marcel/Desktop/Uni-Stuff/3.Semester/Ethik/Vortrag/Ethik_Vortrag/Latex/ppp.tex:616: Undefined control sequence.
+\beamer@doifinframe ... & \textbf {} & \cellcolor 
+                                                  {red!50}\textbf {Nachteile...
+l.616 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (25.59993pt too wide) in paragraph at lines 616--616
+ [] 
+ []
+
+
+Overfull \vbox (17.51888pt too high) detected at line 616
+ []
+
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 616.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[36
+
+]
+Overfull \hbox (481.48203pt too wide) in paragraph at lines 621--621
+|   []\T1/DejaVuSans-TLF/m/n/8 .[] 
+ []
+
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 619.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[37
+
+]
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 619.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[38]
+File: OTHR_OTHR_Logo.pdf Graphic file (type pdf)
+<use OTHR_OTHR_Logo.pdf>
+Package pdftex.def Info: OTHR_OTHR_Logo.pdf  used on input line 621.
+(pdftex.def)             Requested size: 147.40778pt x 25.60728pt.
+
+Overfull \hbox (121.43797pt too wide) has occurred while \output is active
+[]| []  
+ []
+
+
+Overfull \hbox (0.99431pt too wide) has occurred while \output is active
+[] [] 
+ []
+
+[39]
+\tf@nav=\write7
+\openout7 = `ppp.nav'.
+
+\tf@toc=\write8
+\openout8 = `ppp.toc'.
+
+\tf@snm=\write9
+\openout9 = `ppp.snm'.
+
+ (./ppp.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.28pt have occurred.
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package rerunfilecheck Warning: File `ppp.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `ppp.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  195F8D2CCC4A349335CAEA25EC4565AB;5608.
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                ppp
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'ppp.run.xml'.
+\openout1 = `ppp.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 37654 strings out of 480194
+ 741390 string characters out of 5893741
+ 1483591 words of memory out of 5000000
+ 54754 multiletter control sequences out of 15000+600000
+ 523268 words of font info for 113 fonts, out of 8000000 for 9000
+ 16 hyphenation exceptions out of 8191
+ 128i,16n,139p,1916b,2455s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Navigation44} has been referenced but does not exist, replaced by a fixed one
+
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_t1-type1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavusans_t1-type1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans-Oblique.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSans.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on ppp.pdf (39 pages, 2546148 bytes).
+PDF statistics:
+ 514 PDF objects out of 1000 (max. 8388607)
+ 437 compressed objects within 5 object streams
+ 132 named destinations out of 1000 (max. 500000)
+ 87 words of extra memory for PDF output out of 10000 (max. 10000000)
+
